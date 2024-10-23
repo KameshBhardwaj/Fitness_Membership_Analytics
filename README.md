@@ -22,7 +22,6 @@ After cleaning the data, I uploaded it to **MySQL** for further analysis.
 
 ## 🐬 MySQL Analysis
 In **MySQL**, I wrote various SQL queries to explore different categories and relationships within the data. This process solidified my understanding of SQL and improved my confidence in data querying. You can view the SQL code used for this analysis [here](Fitness_Membership_Analytics_SQLCode). I created tables to aggregate and summarize data, allowing for a clearer analysis of gym membership trends.
-I created tables to aggregate and summarize data, allowing for a clearer analysis of gym membership trends.
 
 ## 📈 Power BI Visualization
 Next, I connected **Power BI** to my MySQL server to load the cleaned data for visualization. I created several interactive dashboards, including:
