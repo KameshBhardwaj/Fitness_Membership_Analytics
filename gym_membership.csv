@@ -1,0 +1,1001 @@
+id,first_name,gender,birthday,Age,abonoment_type,visit_per_week,days_per_week,attend_group_lesson,fav_group_lesson,avg_time_check_in,avg_time_check_out,avg_time_in_gym,personal_training,name_personal_trainer
+1,Fey,Female,18-04-1997,27,Premium,4,"Mon, Sat, Tue, Wed",TRUE,Kickboxen,19:31:00,21:42:00,131,FALSE,
+2,Doralin,Female,18-09-1977,47,Standard,3,"Fri, Sat, Sun",FALSE,,19:31:00,21:43:00,132,TRUE,Chantal
+3,Linc,Male,30-03-1983,41,Premium,1,Sun,TRUE,"XCore, Spinning, LesMiles",08:29:00,09:55:00,86,TRUE,Mike
+4,Darren,Male,12-04-1980,44,Premium,3,"Fri, Sat, Tue",FALSE,,09:54:00,12:15:00,141,TRUE,Mike
+5,Petr,Male,10-09-1980,44,Standard,2,"Thu, Tue",TRUE,"Running, BodyBalance",08:29:00,10:39:00,130,TRUE,Mike
+6,Alvera,Female,29-06-2009,15,Standard,1,Tue,FALSE,,17:19:00,18:19:00,60,FALSE,
+7,Anson,Male,07-08-1994,30,Premium,3,"Mon, Sat, Sun",TRUE,"LesMiles, XCore",19:46:00,22:41:00,175,FALSE,
+8,Uriah,Male,13-11-2003,20,Standard,2,"Sat, Sun",TRUE,"Yoga, BodyPump, Running",17:45:00,18:53:00,68,FALSE,
+9,Borden,Male,28-07-1978,46,Premium,3,"Mon, Tue, Wed",TRUE,BodyPump,09:45:00,12:33:00,168,TRUE,Mike
+10,Abbye,Female,06-05-2000,24,Premium,1,Mon,FALSE,,13:05:00,13:51:00,46,TRUE,Jeffrey
+11,Conrade,Male,11-07-1983,41,Standard,1,Thu,FALSE,,13:50:00,16:45:00,175,TRUE,Hanna
+12,Ely,Male,19-09-1997,27,Premium,3,"Mon, Sat, Tue",TRUE,"Pilates, LesMiles, Kickboxen",10:12:00,11:43:00,91,TRUE,Mike
+13,Celine,Female,22-04-1994,30,Standard,2,"Sun, Wed",TRUE,"XCore, Spinning, LesMiles",17:04:00,18:48:00,104,FALSE,
+14,Alie,Female,21-03-1989,35,Premium,3,"Mon, Sun, Wed",FALSE,,19:50:00,21:50:00,120,FALSE,
+15,Charmine,Female,01-10-1989,35,Premium,1,Sat,FALSE,,20:12:00,21:42:00,90,TRUE,Mike
+16,Katya,Female,20-12-1987,36,Standard,4,"Mon, Sat, Sun, Wed",TRUE,"Spinning, LesMiles",17:28:00,19:49:00,141,FALSE,
+17,Chaddie,Male,17-12-1986,37,Premium,3,"Mon, Sat, Sun",FALSE,,09:25:00,10:46:00,81,TRUE,Jeffrey
+18,Trixy,Female,30-04-2011,13,Standard,3,"Sun, Thu, Wed",FALSE,,16:54:00,19:00:00,126,TRUE,Mike
+19,Janene,Female,29-05-1986,38,Standard,1,Tue,TRUE,Pilates,10:01:00,11:35:00,94,TRUE,Hanna
+20,Abe,Male,13-09-1991,33,Premium,2,"Sat, Wed",TRUE,"BodyPump, BodyBalance",13:55:00,16:09:00,134,FALSE,
+21,Biddie,Female,31-12-1997,26,Premium,2,"Sat, Thu",FALSE,,08:19:00,09:01:00,42,TRUE,Hanna
+22,Jamey,Male,29-10-1997,26,Premium,3,"Fri, Mon, Sun",TRUE,"Yoga, Pilates, Spinning",15:06:00,16:50:00,104,FALSE,
+23,Kimberlee,Female,22-10-2010,13,Standard,2,"Thu, Tue",TRUE,"HIT, Running, Spinning",20:56:00,22:46:00,110,TRUE,Mike
+24,Mar,Male,24-01-2010,14,Premium,3,"Fri, Mon, Sat",FALSE,,14:34:00,15:55:00,81,TRUE,Jeffrey
+25,Bernardina,Female,04-10-2008,15,Premium,1,Fri,FALSE,,08:42:00,11:06:00,144,FALSE,
+26,Hew,Male,17-06-1989,35,Standard,1,Fri,TRUE,BodyBalance,13:12:00,15:13:00,121,TRUE,Chantal
+27,Kenon,Male,31-03-2005,19,Premium,3,"Mon, Thu, Tue",TRUE,"Zumba, HIT, Yoga",15:01:00,15:54:00,53,FALSE,
+28,Wat,Male,10-04-1992,32,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"BodyBalance, Running",19:41:00,21:46:00,125,TRUE,Chantal
+29,Kandy,Female,21-01-1997,27,Premium,1,Tue,FALSE,,11:25:00,12:28:00,63,FALSE,
+30,Nissa,Female,04-11-2002,21,Premium,3,"Fri, Mon, Wed",TRUE,Spinning,20:15:00,20:47:00,32,FALSE,
+31,Keith,Male,04-03-1988,36,Premium,3,"Fri, Sat, Sun",FALSE,,10:01:00,11:18:00,77,TRUE,Jeffrey
+32,Nataniel,Male,02-03-2000,24,Standard,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,20:53:00,22:50:00,117,FALSE,
+33,Hestia,Female,26-02-1982,42,Premium,3,"Fri, Mon, Thu",TRUE,"LesMiles, Zumba, Yoga",10:23:00,11:18:00,55,TRUE,Chantal
+34,Trudi,Female,07-12-1976,47,Premium,2,"Fri, Sat",TRUE,"XCore, BodyPump, LesMiles",14:42:00,16:57:00,135,TRUE,Hanna
+35,Alf,Male,06-03-2004,20,Premium,5,"Fri, Sat, Thu, Tue, Wed",FALSE,,18:15:00,20:02:00,107,TRUE,Mike
+36,Morie,Male,09-03-1990,34,Standard,3,"Mon, Sun, Thu",TRUE,XCore,13:39:00,16:17:00,158,FALSE,
+37,Shelby,Female,18-03-1981,43,Standard,5,"Fri, Mon, Sun, Tue, Wed",FALSE,,09:02:00,10:31:00,89,FALSE,
+38,Sibella,Female,01-11-1983,40,Premium,2,"Mon, Sat",FALSE,,08:39:00,09:27:00,48,FALSE,
+39,Hercules,Male,05-07-1980,44,Premium,1,Fri,FALSE,,20:43:00,21:45:00,62,FALSE,
+40,Kara,Female,19-01-2006,18,Premium,2,"Sat, Thu",TRUE,LesMiles,10:26:00,11:58:00,92,FALSE,
+41,Samantha,Female,11-06-2008,16,Premium,3,"Sat, Thu, Wed",FALSE,,16:04:00,17:19:00,75,TRUE,Hanna
+42,Bambie,Female,08-07-1989,35,Standard,1,Sat,FALSE,,09:38:00,12:01:00,143,FALSE,
+43,Nicol,Female,26-06-1995,29,Premium,1,Sat,TRUE,BodyBalance,10:25:00,11:08:00,43,TRUE,Chantal
+44,Elizabet,Female,05-04-1996,28,Standard,1,Sun,FALSE,,11:49:00,12:21:00,32,TRUE,Hanna
+45,Sigismond,Male,19-01-1976,48,Premium,2,"Fri, Wed",FALSE,,09:57:00,11:11:00,74,TRUE,Hanna
+46,Aridatha,Female,22-05-1981,43,Standard,4,"Fri, Mon, Thu, Tue",TRUE,"Spinning, Pilates",18:41:00,19:50:00,69,TRUE,Hanna
+47,Sigfrid,Male,04-03-1989,35,Standard,3,"Fri, Mon, Sun",FALSE,,15:02:00,16:02:00,60,FALSE,
+48,Dick,Male,15-11-1997,26,Premium,5,"Fri, Sun, Thu, Tue, Wed",TRUE,"Yoga, Zumba, Running",16:29:00,17:16:00,47,TRUE,Jeffrey
+49,Anette,Female,23-10-1975,48,Premium,3,"Mon, Thu, Wed",TRUE,"Yoga, LesMiles",11:56:00,13:52:00,116,TRUE,Chantal
+50,Nora,Female,29-12-1979,44,Premium,2,"Sun, Tue",TRUE,"BodyPump, HIT",08:54:00,11:09:00,135,FALSE,
+51,Maximilianus,Male,17-07-1979,45,Standard,3,"Fri, Sun, Wed",FALSE,,09:43:00,11:13:00,90,FALSE,
+52,Nathanil,Male,21-04-1996,28,Premium,2,"Fri, Tue",TRUE,"BodyPump, XCore",20:58:00,21:45:00,47,FALSE,
+53,Jada,Female,17-07-2004,20,Premium,2,"Mon, Sat",TRUE,"BodyBalance, Kickboxen, Yoga",09:26:00,10:46:00,80,FALSE,
+54,Maud,Female,27-11-1980,43,Standard,4,"Fri, Mon, Sun, Wed",TRUE,"Pilates, BodyPump, Running",20:36:00,22:21:00,105,TRUE,Mike
+55,Chadd,Male,04-01-2000,24,Standard,2,"Fri, Tue",TRUE,"Spinning, XCore, BodyPump",15:49:00,17:09:00,80,TRUE,Chantal
+56,Paten,Male,26-07-2002,22,Standard,3,"Fri, Thu, Wed",FALSE,,17:13:00,19:09:00,116,FALSE,
+57,Isahella,Female,12-06-2001,23,Standard,3,"Mon, Sat, Wed",FALSE,,08:36:00,10:20:00,104,FALSE,
+58,Benton,Male,30-12-1977,46,Premium,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"BodyBalance, Spinning, XCore",12:19:00,15:07:00,168,TRUE,Chantal
+59,Gus,Male,11-07-2007,17,Premium,2,"Sun, Tue",TRUE,"Kickboxen, Spinning, BodyPump",10:40:00,11:30:00,50,FALSE,
+60,Lesley,Female,20-08-1988,36,Standard,2,"Thu, Tue",TRUE,"XCore, LesMiles, HIT",19:38:00,21:46:00,128,TRUE,Chantal
+61,Eulalie,Female,08-05-1977,47,Premium,3,"Mon, Sat, Thu",FALSE,,18:30:00,19:56:00,86,TRUE,Chantal
+62,Talia,Female,13-05-1995,29,Standard,3,"Fri, Sat, Thu",FALSE,,10:28:00,13:26:00,178,TRUE,Chantal
+63,Chaddy,Male,10-03-1994,30,Standard,3,"Fri, Sat, Sun",FALSE,,17:22:00,19:20:00,118,FALSE,
+64,Bridget,Female,16-05-2002,22,Premium,3,"Fri, Thu, Tue",FALSE,,10:41:00,12:03:00,82,TRUE,Hanna
+65,Dierdre,Female,21-11-1982,41,Standard,2,"Mon, Wed",FALSE,,13:55:00,16:15:00,140,FALSE,
+66,Constancia,Female,27-03-1979,45,Premium,4,"Sat, Sun, Tue, Wed",FALSE,,13:06:00,13:47:00,41,FALSE,
+67,Arlie,Female,26-04-2002,22,Premium,1,Sun,TRUE,"Running, HIT",08:18:00,08:55:00,37,FALSE,
+68,Shelden,Male,16-07-2004,20,Standard,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"Spinning, Zumba",13:04:00,13:43:00,39,TRUE,Mike
+69,Carver,Male,12-12-1990,33,Premium,1,Mon,TRUE,Zumba,09:04:00,10:20:00,76,FALSE,
+70,Franky,Female,01-08-1988,36,Premium,3,"Fri, Sat, Tue",FALSE,,11:11:00,14:01:00,170,FALSE,
+71,Vincenz,Male,21-09-1994,30,Premium,5,"Fri, Mon, Sat, Sun, Thu",TRUE,"BodyPump, Kickboxen, Running",13:04:00,14:45:00,101,TRUE,Hanna
+72,Adham,Male,13-03-2007,17,Premium,1,Sun,FALSE,,10:30:00,12:58:00,148,TRUE,Mike
+73,Guillaume,Male,31-12-1988,35,Premium,2,"Fri, Tue",FALSE,,17:06:00,18:10:00,64,TRUE,Chantal
+74,Bone,Male,16-12-1995,28,Standard,2,"Mon, Wed",FALSE,,20:17:00,20:59:00,42,FALSE,
+75,Florry,Female,30-11-1996,27,Standard,5,"Fri, Mon, Sat, Tue, Wed",FALSE,,09:57:00,11:17:00,80,FALSE,
+76,Thaddeus,Male,09-06-2004,20,Premium,1,Wed,FALSE,,15:33:00,16:19:00,46,TRUE,Mike
+77,Alexine,Female,19-04-2007,17,Premium,2,"Thu, Wed",FALSE,,15:54:00,16:46:00,52,TRUE,Hanna
+78,Boigie,Male,24-10-1990,33,Premium,2,"Mon, Tue",TRUE,"Zumba, LesMiles",16:16:00,17:42:00,86,TRUE,Mike
+79,Morgan,Female,24-04-1981,43,Standard,5,"Fri, Mon, Sat, Sun, Tue",TRUE,"XCore, LesMiles",12:44:00,15:05:00,141,FALSE,
+80,Merrily,Female,23-09-1988,36,Standard,2,"Mon, Sun",TRUE,"Yoga, Zumba, BodyPump",18:19:00,19:42:00,83,TRUE,Jeffrey
+81,Orv,Male,15-10-1978,45,Standard,2,"Mon, Tue",FALSE,,12:35:00,14:41:00,126,TRUE,Mike
+82,Sayres,Male,06-11-1981,42,Standard,3,"Mon, Sat, Thu",TRUE,"Running, BodyBalance",18:55:00,20:49:00,114,FALSE,
+83,Estevan,Male,02-04-1995,29,Premium,1,Thu,FALSE,,08:33:00,09:42:00,69,FALSE,
+84,Rusty,Male,30-07-2006,18,Standard,3,"Fri, Mon, Thu",TRUE,Yoga,09:15:00,10:07:00,52,FALSE,
+85,Crin,Female,27-04-1992,32,Premium,2,"Fri, Sun",TRUE,"HIT, Yoga, BodyBalance",19:07:00,21:39:00,152,FALSE,
+86,Kailey,Female,09-02-1997,27,Standard,3,"Mon, Sat, Sun",TRUE,"BodyPump, LesMiles",20:29:00,23:20:00,171,TRUE,Chantal
+87,Thorsten,Male,27-06-1977,47,Premium,3,"Mon, Sat, Thu",TRUE,"Kickboxen, XCore, HIT",12:51:00,15:37:00,166,TRUE,Chantal
+88,Karolina,Female,05-10-2008,15,Premium,2,"Fri, Mon",FALSE,,11:29:00,12:20:00,51,FALSE,
+89,Shirlee,Female,21-12-1984,39,Standard,4,"Fri, Mon, Tue, Wed",TRUE,Yoga,10:34:00,11:09:00,35,FALSE,
+90,Henrie,Female,24-08-1978,46,Standard,1,Tue,FALSE,,11:13:00,12:15:00,62,FALSE,
+91,Perri,Female,08-03-2003,21,Premium,3,"Mon, Sun, Tue",FALSE,,13:04:00,14:34:00,90,FALSE,
+92,Elvis,Male,17-08-1993,31,Standard,1,Sun,TRUE,Running,14:37:00,16:35:00,118,TRUE,Chantal
+93,Nicolle,Female,06-06-1984,40,Standard,4,"Mon, Sat, Thu, Wed",TRUE,"BodyPump, LesMiles",09:55:00,11:28:00,93,FALSE,
+94,Karlyn,Female,03-06-1983,41,Standard,2,"Fri, Wed",TRUE,BodyPump,16:43:00,18:16:00,93,TRUE,Chantal
+95,Jen,Female,10-05-2012,12,Standard,3,"Fri, Mon, Tue",TRUE,"BodyBalance, XCore",10:10:00,11:35:00,85,FALSE,
+96,Hunt,Male,10-04-1984,40,Standard,1,Mon,FALSE,,10:28:00,12:55:00,147,FALSE,
+97,Barnebas,Male,24-03-1995,29,Premium,3,"Sat, Thu, Wed",FALSE,,14:16:00,17:13:00,177,FALSE,
+98,Emanuel,Male,18-09-2005,19,Premium,2,"Mon, Wed",FALSE,,16:57:00,17:48:00,51,TRUE,Jeffrey
+99,Blondelle,Female,23-03-1990,34,Premium,2,"Thu, Wed",FALSE,,09:35:00,10:57:00,82,TRUE,Hanna
+100,Cherise,Female,08-02-2003,21,Premium,3,"Mon, Sat, Sun",FALSE,,08:34:00,10:09:00,95,FALSE,
+101,Giselbert,Male,18-05-1980,44,Standard,3,"Fri, Mon, Sun",TRUE,HIT,10:11:00,13:01:00,170,TRUE,Jeffrey
+102,Shayna,Female,15-02-2000,24,Standard,3,"Mon, Sat, Wed",TRUE,"BodyPump, Running, XCore",17:42:00,20:23:00,161,TRUE,Mike
+103,Falito,Male,06-11-1990,33,Standard,5,"Fri, Sat, Thu, Tue, Wed",TRUE,"Pilates, Kickboxen, HIT",10:29:00,12:41:00,132,TRUE,Chantal
+104,Rodi,Female,20-12-1976,47,Premium,2,"Fri, Sun",FALSE,,13:19:00,15:41:00,142,TRUE,Mike
+105,Dianemarie,Female,15-03-1986,38,Premium,1,Wed,TRUE,"BodyPump, LesMiles",09:51:00,10:35:00,44,TRUE,Mike
+106,Tomkin,Male,28-08-2012,12,Premium,3,"Fri, Sat, Tue",TRUE,"Pilates, Yoga",19:57:00,20:49:00,52,FALSE,
+107,Shawnee,Female,22-07-2003,21,Standard,2,"Mon, Sat",FALSE,,20:13:00,22:42:00,149,FALSE,
+108,Vivia,Female,05-03-2002,22,Standard,3,"Thu, Tue, Wed",TRUE,"Running, HIT",19:52:00,21:17:00,85,TRUE,Chantal
+109,Amara,Female,27-03-1991,33,Premium,1,Fri,FALSE,,14:02:00,14:57:00,55,FALSE,
+110,Aile,Female,01-03-2004,20,Premium,2,"Sat, Thu",TRUE,Pilates,17:52:00,20:39:00,167,FALSE,
+111,Irena,Female,01-02-1994,30,Standard,3,"Fri, Sun, Tue",TRUE,HIT,17:43:00,18:25:00,42,FALSE,
+112,Waylin,Male,06-03-2009,15,Standard,3,"Fri, Tue, Wed",TRUE,"Pilates, BodyBalance",16:33:00,17:59:00,86,FALSE,
+113,Yvonne,Female,31-07-1977,47,Premium,1,Sun,FALSE,,16:23:00,17:36:00,73,TRUE,Chantal
+114,Catherine,Female,18-06-1994,30,Premium,3,"Sun, Tue, Wed",FALSE,,13:51:00,14:54:00,63,TRUE,Jeffrey
+115,Mae,Female,16-09-2010,14,Premium,3,"Mon, Thu, Wed",FALSE,,14:36:00,16:03:00,87,TRUE,Jeffrey
+116,Esra,Male,17-03-1991,33,Premium,4,"Sat, Sun, Tue, Wed",FALSE,,19:08:00,21:24:00,136,FALSE,
+117,Woodie,Male,04-04-1975,49,Standard,1,Sat,TRUE,Pilates,18:02:00,19:37:00,95,FALSE,
+118,Esra,Male,28-12-1983,40,Standard,5,"Fri, Mon, Sat, Tue, Wed",FALSE,,08:23:00,10:02:00,99,FALSE,
+119,Bank,Male,07-07-1978,46,Premium,3,"Mon, Thu, Wed",TRUE,"HIT, XCore, BodyPump",13:30:00,16:26:00,176,TRUE,Jeffrey
+120,Selle,Female,06-05-1984,40,Standard,3,"Mon, Sat, Sun",FALSE,,14:55:00,17:45:00,170,TRUE,Chantal
+121,Robinetta,Female,30-03-2002,22,Premium,2,"Mon, Thu",TRUE,"BodyPump, Spinning",19:19:00,21:51:00,152,FALSE,
+122,Corrie,Female,02-07-1981,43,Premium,1,Tue,TRUE,"Kickboxen, BodyPump",20:09:00,22:15:00,126,FALSE,
+123,Carmencita,Female,28-10-1990,33,Standard,3,"Fri, Sat, Sun",FALSE,,09:46:00,10:26:00,40,FALSE,
+124,Fifi,Female,29-07-2010,14,Premium,3,"Mon, Sun, Tue",FALSE,,14:40:00,15:29:00,49,TRUE,Hanna
+125,Jae,Male,20-04-2010,14,Standard,3,"Fri, Sun, Thu",FALSE,,14:09:00,17:06:00,177,TRUE,Jeffrey
+126,Iago,Male,16-10-2009,14,Standard,3,"Mon, Sun, Tue",FALSE,,08:40:00,09:56:00,76,TRUE,Chantal
+127,Minnie,Female,16-12-2004,19,Standard,3,"Thu, Tue, Wed",FALSE,,10:58:00,12:39:00,101,TRUE,Hanna
+128,Lian,Female,27-02-1992,32,Premium,3,"Sun, Tue, Wed",FALSE,,14:23:00,16:57:00,154,FALSE,
+129,Bradney,Male,30-03-1977,47,Premium,1,Wed,TRUE,Running,12:24:00,13:13:00,49,TRUE,Hanna
+130,Cody,Male,27-05-1981,43,Premium,2,"Tue, Wed",FALSE,,19:40:00,21:00:00,80,TRUE,Chantal
+131,Garrott,Male,17-11-1989,34,Standard,3,"Sun, Thu, Wed",FALSE,,15:41:00,17:27:00,106,TRUE,Hanna
+132,Finley,Male,19-03-2003,21,Premium,1,Tue,FALSE,,18:11:00,19:44:00,93,TRUE,Hanna
+133,Gearalt,Male,26-04-1997,27,Premium,2,"Sat, Sun",TRUE,Zumba,11:35:00,14:31:00,176,FALSE,
+134,Pooh,Female,20-08-1993,31,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"Spinning, LesMiles",09:31:00,12:24:00,173,TRUE,Mike
+135,Kris,Female,19-05-2003,21,Standard,2,"Sun, Tue",FALSE,,13:05:00,14:02:00,57,TRUE,Mike
+136,Helga,Female,30-06-2009,15,Standard,2,"Fri, Tue",FALSE,,16:51:00,17:36:00,45,FALSE,
+137,Marga,Female,18-09-2004,20,Premium,3,"Fri, Mon, Sat",FALSE,,10:32:00,13:30:00,178,FALSE,
+138,Gunar,Male,10-04-1988,36,Standard,1,Wed,FALSE,,20:55:00,22:16:00,81,FALSE,
+139,Nesta,Female,07-04-1993,31,Standard,5,"Fri, Mon, Sun, Thu, Tue",FALSE,,19:28:00,21:35:00,127,FALSE,
+140,Brittany,Female,25-02-2010,14,Standard,2,"Sun, Wed",TRUE,"Spinning, XCore, BodyBalance",10:33:00,11:05:00,32,FALSE,
+141,Park,Male,28-05-1984,40,Premium,3,"Fri, Sat, Tue",TRUE,"LesMiles, Yoga",19:59:00,22:37:00,158,TRUE,Mike
+142,Rosalinde,Female,07-03-2002,22,Standard,5,"Mon, Sun, Thu, Tue, Wed",TRUE,"Running, Yoga, Kickboxen",08:13:00,11:09:00,176,FALSE,
+143,Ginnifer,Female,19-03-2008,16,Premium,3,"Fri, Mon, Thu",FALSE,,17:21:00,19:20:00,119,TRUE,Chantal
+144,Rickard,Male,11-03-1975,49,Premium,3,"Fri, Thu, Tue",TRUE,"XCore, HIT, Kickboxen",20:30:00,22:53:00,143,TRUE,Jeffrey
+145,Winne,Female,21-06-2010,14,Premium,3,"Sat, Sun, Thu",FALSE,,10:11:00,11:03:00,52,FALSE,
+146,Julina,Female,20-08-2010,14,Standard,5,"Fri, Mon, Sun, Thu, Tue",TRUE,XCore,20:23:00,21:23:00,60,TRUE,Mike
+147,Timothee,Male,17-03-1988,36,Standard,3,"Sun, Tue, Wed",TRUE,Running,18:19:00,19:48:00,89,FALSE,
+148,Hazlett,Male,22-03-1988,36,Premium,2,"Thu, Wed",TRUE,"BodyPump, Pilates, BodyBalance",09:08:00,12:02:00,174,TRUE,Mike
+149,Andrew,Male,29-06-1998,26,Standard,2,"Thu, Wed",FALSE,,17:57:00,19:49:00,112,FALSE,
+150,Cirilo,Male,27-06-2005,19,Premium,1,Mon,FALSE,,16:10:00,17:32:00,82,TRUE,Mike
+151,Alberto,Male,02-02-1995,29,Premium,2,"Fri, Wed",TRUE,"Pilates, XCore",20:15:00,21:11:00,56,FALSE,
+152,Marion,Male,25-09-1997,27,Premium,2,"Mon, Tue",FALSE,,20:44:00,21:33:00,49,TRUE,Hanna
+153,Gail,Male,22-07-1977,47,Premium,2,"Sun, Thu",TRUE,"Running, Kickboxen, Pilates",16:41:00,17:16:00,35,TRUE,Chantal
+154,Burke,Male,16-03-1985,39,Standard,2,"Sat, Thu",TRUE,Kickboxen,11:18:00,13:02:00,104,TRUE,Mike
+155,Moe,Male,27-08-1977,47,Standard,1,Mon,FALSE,,14:41:00,15:14:00,33,TRUE,Hanna
+156,Jocelyne,Female,01-02-2004,20,Premium,2,"Fri, Sat",FALSE,,18:54:00,20:04:00,70,TRUE,Chantal
+157,Jillie,Female,30-08-2004,20,Standard,4,"Fri, Sat, Thu, Tue",FALSE,,11:51:00,13:13:00,82,TRUE,Jeffrey
+158,Torrance,Male,02-02-2002,22,Standard,2,"Mon, Tue",FALSE,,14:12:00,15:37:00,85,TRUE,Mike
+159,Ruthann,Female,03-06-2002,22,Standard,3,"Sat, Thu, Tue",TRUE,"Kickboxen, LesMiles, HIT",17:57:00,20:19:00,142,TRUE,Hanna
+160,Millie,Female,19-03-2000,24,Premium,3,"Sun, Thu, Tue",TRUE,"BodyBalance, Yoga",15:17:00,16:48:00,91,TRUE,Hanna
+161,Adriane,Female,22-12-2006,17,Standard,3,"Fri, Sat, Wed",TRUE,"XCore, Running, HIT",15:41:00,18:15:00,154,TRUE,Chantal
+162,Peder,Male,27-01-1995,29,Standard,1,Thu,FALSE,,17:00:00,19:46:00,166,FALSE,
+163,Cesaro,Male,24-11-1987,36,Premium,3,"Sat, Sun, Wed",FALSE,,08:42:00,11:16:00,154,TRUE,Jeffrey
+164,Quincy,Male,29-01-2004,20,Standard,5,"Fri, Mon, Sat, Thu, Wed",FALSE,,17:41:00,20:08:00,147,FALSE,
+165,Christian,Male,22-05-1995,29,Standard,2,"Sun, Tue",TRUE,Zumba,14:45:00,17:27:00,162,TRUE,Chantal
+166,Bordie,Male,19-09-1992,32,Premium,3,"Fri, Mon, Sun",FALSE,,20:34:00,21:23:00,49,TRUE,Chantal
+167,Nessie,Female,15-10-1981,42,Premium,4,"Fri, Mon, Tue, Wed",TRUE,"Running, Spinning, Kickboxen",09:55:00,12:44:00,169,FALSE,
+168,Desi,Male,05-10-2010,13,Standard,3,"Fri, Mon, Wed",TRUE,Running,12:27:00,13:36:00,69,FALSE,
+169,Odelinda,Female,28-11-1988,35,Premium,3,"Fri, Sat, Sun",TRUE,Kickboxen,13:32:00,14:09:00,37,FALSE,
+170,Rodger,Male,29-07-1981,43,Standard,3,"Sat, Thu, Wed",FALSE,,12:12:00,13:05:00,53,TRUE,Mike
+171,Corabella,Female,22-08-1987,37,Standard,1,Sun,FALSE,,16:39:00,17:40:00,61,TRUE,Hanna
+172,Joni,Female,05-07-1975,49,Standard,5,"Fri, Mon, Sat, Sun, Tue",TRUE,Pilates,08:15:00,10:06:00,111,FALSE,
+173,Feliks,Male,27-07-1977,47,Standard,2,"Mon, Thu",FALSE,,16:55:00,19:34:00,159,FALSE,
+174,Panchito,Male,17-03-1975,49,Premium,1,Sat,FALSE,,11:21:00,12:42:00,81,FALSE,
+175,Spenser,Male,22-09-2005,19,Standard,2,"Mon, Wed",TRUE,Yoga,14:01:00,14:56:00,55,FALSE,
+176,Burty,Male,24-02-1976,48,Standard,4,"Fri, Mon, Tue, Wed",FALSE,,09:34:00,12:33:00,179,FALSE,
+177,Nadean,Female,29-01-2001,23,Premium,3,"Mon, Sat, Wed",FALSE,,09:56:00,12:11:00,135,TRUE,Chantal
+178,Chick,Male,18-11-2000,23,Premium,4,"Fri, Mon, Sat, Tue",FALSE,,11:02:00,12:38:00,96,TRUE,Chantal
+179,Maryrose,Female,25-11-2010,13,Standard,2,"Sat, Thu",FALSE,,17:27:00,19:23:00,116,FALSE,
+180,Nolly,Male,20-06-1976,48,Premium,3,"Fri, Mon, Tue",TRUE,"Kickboxen, Spinning",08:33:00,09:30:00,57,TRUE,Jeffrey
+181,Jeremiah,Male,20-12-1996,27,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"Kickboxen, Yoga, BodyPump",10:50:00,12:06:00,76,FALSE,
+182,Martguerita,Female,16-02-2010,14,Standard,3,"Mon, Sun, Thu",TRUE,XCore,09:01:00,10:08:00,67,TRUE,Chantal
+183,Steffen,Male,14-07-2010,14,Premium,1,Sat,FALSE,,13:06:00,13:45:00,39,FALSE,
+184,Klement,Male,16-10-2006,17,Standard,1,Sun,FALSE,,17:58:00,18:58:00,60,TRUE,Hanna
+185,Webb,Male,18-09-1985,39,Standard,2,"Mon, Sun",TRUE,"Running, BodyBalance, BodyPump",09:20:00,10:11:00,51,FALSE,
+186,Chloe,Female,24-03-1975,49,Standard,3,"Mon, Sat, Sun",FALSE,,17:42:00,19:11:00,89,TRUE,Mike
+187,Salvidor,Male,17-04-2012,12,Standard,5,"Fri, Mon, Sat, Tue, Wed",TRUE,"Pilates, HIT",19:49:00,20:51:00,62,TRUE,Mike
+188,Ethelyn,Female,28-02-1987,37,Premium,1,Sat,TRUE,"Yoga, LesMiles, HIT",08:21:00,09:04:00,43,FALSE,
+189,Terry,Male,12-11-1987,36,Premium,2,"Sun, Tue",TRUE,"Spinning, Zumba, BodyBalance",11:28:00,12:43:00,75,FALSE,
+190,Nealy,Male,08-09-2011,13,Standard,4,"Sat, Sun, Tue, Wed",FALSE,,14:47:00,16:59:00,132,FALSE,
+191,Cirstoforo,Male,23-10-1992,31,Premium,2,"Mon, Tue",FALSE,,13:48:00,16:27:00,159,FALSE,
+192,Kaye,Female,11-07-1985,39,Standard,4,"Mon, Sat, Tue, Wed",FALSE,,17:07:00,17:57:00,50,FALSE,
+193,Candie,Female,09-06-2012,12,Premium,3,"Fri, Mon, Wed",TRUE,Zumba,13:57:00,16:54:00,177,FALSE,
+194,Bernetta,Female,15-08-2001,23,Premium,1,Fri,FALSE,,16:54:00,19:41:00,167,FALSE,
+195,Ferd,Male,24-04-1979,45,Premium,2,"Sun, Tue",FALSE,,11:23:00,13:00:00,97,FALSE,
+196,Kendrick,Male,09-02-1985,39,Premium,5,"Fri, Mon, Thu, Tue, Wed",FALSE,,20:01:00,22:56:00,175,TRUE,Jeffrey
+197,Cord,Male,26-03-2010,14,Standard,2,"Tue, Wed",FALSE,,13:53:00,14:40:00,47,TRUE,Mike
+198,Bret,Male,05-08-1994,30,Premium,3,"Mon, Thu, Wed",TRUE,"BodyPump, Yoga, XCore",13:00:00,14:49:00,109,TRUE,Jeffrey
+199,Elfie,Female,06-01-2009,15,Premium,3,"Fri, Sat, Wed",FALSE,,09:55:00,12:05:00,130,TRUE,Jeffrey
+200,Cooper,Male,31-08-2012,12,Standard,1,Thu,FALSE,,15:47:00,16:21:00,34,TRUE,Jeffrey
+201,Sheffield,Male,29-09-1978,46,Standard,4,"Sun, Thu, Tue, Wed",TRUE,HIT,13:31:00,14:47:00,76,TRUE,Mike
+202,Gualterio,Male,25-05-1975,49,Premium,4,"Mon, Sun, Thu, Tue",FALSE,,08:21:00,09:00:00,39,FALSE,
+203,Rikki,Female,20-12-1980,43,Premium,2,"Sat, Thu",FALSE,,18:32:00,20:19:00,107,TRUE,Chantal
+204,Roderigo,Male,18-02-2005,19,Premium,2,"Sat, Sun",TRUE,"LesMiles, Kickboxen",17:13:00,18:38:00,85,TRUE,Jeffrey
+205,Trey,Male,29-05-1982,42,Premium,3,"Mon, Sun, Tue",FALSE,,09:57:00,11:31:00,94,TRUE,Chantal
+206,Aaron,Male,21-03-1978,46,Standard,1,Mon,TRUE,"Zumba, BodyBalance, Kickboxen",18:06:00,20:01:00,115,FALSE,
+207,Heall,Male,20-06-2006,18,Standard,3,"Mon, Sat, Tue",TRUE,"Running, Zumba, Pilates",11:47:00,12:35:00,48,TRUE,Chantal
+208,Willey,Male,02-01-1983,41,Premium,1,Wed,TRUE,"Running, Kickboxen, Zumba",11:28:00,14:08:00,160,TRUE,Jeffrey
+209,Earl,Male,11-09-2005,19,Premium,4,"Fri, Sat, Thu, Tue",FALSE,,19:07:00,19:39:00,32,TRUE,Hanna
+210,Trstram,Male,21-08-2007,17,Premium,2,"Sun, Tue",FALSE,,17:44:00,19:06:00,82,TRUE,Chantal
+211,Ethelin,Female,26-03-1997,27,Standard,2,"Mon, Wed",TRUE,Pilates,09:10:00,11:04:00,114,TRUE,Chantal
+212,Giffer,Male,22-01-1999,25,Premium,3,"Fri, Sat, Tue",FALSE,,17:21:00,18:31:00,70,FALSE,
+213,Patrizio,Male,18-07-2001,23,Premium,2,"Mon, Sun",TRUE,XCore,12:58:00,14:38:00,100,FALSE,
+214,Reiko,Female,01-01-1989,35,Standard,1,Wed,FALSE,,08:34:00,09:19:00,45,TRUE,Chantal
+215,Mindy,Female,14-12-1985,38,Standard,3,"Sat, Sun, Thu",TRUE,"Yoga, Running",08:17:00,09:00:00,43,FALSE,
+216,Isaak,Male,11-04-1975,49,Premium,3,"Fri, Mon, Sun",FALSE,,12:37:00,14:22:00,105,TRUE,Mike
+217,Denver,Male,16-06-1990,34,Standard,1,Wed,FALSE,,12:42:00,14:31:00,109,TRUE,Jeffrey
+218,Rubina,Female,12-01-1978,46,Premium,3,"Sun, Tue, Wed",TRUE,BodyPump,18:01:00,20:26:00,145,FALSE,
+219,Harland,Male,18-06-1979,45,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,Spinning,14:59:00,16:43:00,104,FALSE,
+220,Any,Male,12-11-1987,36,Premium,5,"Fri, Mon, Sat, Sun, Thu",FALSE,,20:57:00,22:42:00,105,TRUE,Mike
+221,Elbert,Male,05-03-1979,45,Premium,2,"Fri, Sun",FALSE,,12:13:00,14:52:00,159,TRUE,Chantal
+222,Jesse,Male,08-04-1975,49,Premium,3,"Fri, Mon, Wed",TRUE,"Pilates, XCore",20:01:00,22:01:00,120,TRUE,Mike
+223,Mata,Male,05-10-2005,18,Standard,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,20:23:00,21:05:00,42,FALSE,
+224,Oriana,Female,30-07-2000,24,Standard,2,"Thu, Wed",FALSE,,20:41:00,23:07:00,146,FALSE,
+225,Cletis,Male,30-09-2000,24,Standard,3,"Mon, Sun, Thu",FALSE,,20:08:00,22:35:00,147,FALSE,
+226,Marlin,Male,30-07-1993,31,Standard,1,Sun,FALSE,,15:01:00,17:55:00,174,FALSE,
+227,Lenka,Female,01-10-1976,48,Premium,3,"Fri, Sun, Tue",TRUE,"XCore, HIT, BodyBalance",20:37:00,21:23:00,46,TRUE,Jeffrey
+228,Rowan,Male,05-03-2007,17,Premium,1,Mon,TRUE,"Spinning, BodyPump, Running",19:05:00,21:49:00,164,TRUE,Chantal
+229,Harper,Male,26-03-1993,31,Premium,5,"Fri, Sat, Sun, Thu, Tue",FALSE,,20:39:00,22:59:00,140,FALSE,
+230,Alanson,Male,22-10-2001,22,Standard,3,"Fri, Sat, Sun",TRUE,"Yoga, Zumba, BodyBalance",16:31:00,17:24:00,53,FALSE,
+231,Onofredo,Male,23-11-1986,37,Premium,3,"Fri, Mon, Tue",FALSE,,17:53:00,20:36:00,163,FALSE,
+232,Bennett,Male,24-08-1985,39,Standard,5,"Fri, Mon, Sun, Thu, Wed",TRUE,"XCore, Spinning",15:16:00,16:52:00,96,TRUE,Mike
+233,Jennilee,Female,29-09-2010,14,Standard,3,"Fri, Tue, Wed",FALSE,,08:34:00,09:39:00,65,FALSE,
+234,Talia,Female,10-09-2005,19,Standard,1,Mon,FALSE,,20:26:00,21:32:00,66,FALSE,
+235,Teirtza,Female,21-07-1997,27,Standard,4,"Fri, Mon, Sat, Sun",FALSE,,11:49:00,14:21:00,152,TRUE,Hanna
+236,Idell,Female,08-04-1989,35,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"BodyPump, BodyBalance, XCore",15:45:00,16:25:00,40,FALSE,
+237,Marylou,Female,09-01-2005,19,Premium,2,"Fri, Sat",TRUE,Spinning,10:32:00,11:22:00,50,TRUE,Jeffrey
+238,Irene,Female,25-06-2003,21,Premium,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"Pilates, XCore, Running",20:15:00,21:15:00,60,FALSE,
+239,Claudius,Male,27-10-2003,20,Standard,3,"Mon, Thu, Wed",TRUE,"Zumba, BodyBalance",17:30:00,19:11:00,101,TRUE,Jeffrey
+240,Stanton,Male,03-01-2005,19,Premium,4,"Fri, Mon, Sun, Thu",TRUE,"Kickboxen, LesMiles",15:49:00,16:29:00,40,FALSE,
+241,Hedwig,Female,31-10-1981,42,Premium,2,"Fri, Wed",FALSE,,11:03:00,13:05:00,122,TRUE,Hanna
+242,Godart,Male,02-08-2006,18,Premium,1,Thu,FALSE,,17:38:00,18:14:00,36,TRUE,Mike
+243,Ekaterina,Female,16-08-1975,49,Premium,1,Fri,FALSE,,13:58:00,15:32:00,94,TRUE,Mike
+244,Sella,Female,11-10-2007,16,Premium,5,"Fri, Mon, Sun, Tue, Wed",TRUE,"Yoga, BodyPump, Running",13:50:00,15:27:00,97,TRUE,Hanna
+245,Brennen,Male,06-08-1997,27,Standard,1,Mon,TRUE,"Kickboxen, HIT",12:11:00,13:16:00,65,TRUE,Jeffrey
+246,Kary,Female,17-09-2000,24,Premium,4,"Mon, Thu, Tue, Wed",FALSE,,09:12:00,11:34:00,142,FALSE,
+247,Elvis,Male,19-04-1987,37,Standard,4,"Fri, Mon, Sun, Thu",TRUE,"BodyBalance, Yoga, LesMiles",18:44:00,21:02:00,138,FALSE,
+248,Lib,Female,17-08-2000,24,Premium,1,Fri,FALSE,,14:59:00,17:54:00,175,TRUE,Mike
+249,Deloris,Female,14-11-1995,28,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"Zumba, BodyPump",18:00:00,19:08:00,68,FALSE,
+250,Peter,Male,27-08-2006,18,Standard,3,"Sun, Thu, Tue",FALSE,,13:26:00,16:24:00,178,FALSE,
+251,Spenser,Male,21-06-2006,18,Standard,2,"Mon, Sun",TRUE,"Yoga, BodyPump, BodyBalance",08:05:00,09:20:00,75,FALSE,
+252,Margarita,Female,28-05-1992,32,Premium,5,"Fri, Mon, Thu, Tue, Wed",TRUE,"BodyBalance, Yoga",10:17:00,11:04:00,47,FALSE,
+253,Sergio,Male,27-10-1983,40,Premium,2,"Mon, Thu",TRUE,"Yoga, Zumba, Spinning",14:33:00,16:14:00,101,TRUE,Jeffrey
+254,Alexei,Male,27-10-2003,20,Standard,4,"Sat, Sun, Tue, Wed",FALSE,,17:12:00,18:45:00,93,FALSE,
+255,Michale,Male,14-04-2003,21,Premium,1,Wed,TRUE,"Kickboxen, Yoga, BodyPump",14:34:00,16:34:00,120,TRUE,Mike
+256,Andreana,Female,18-12-1985,38,Premium,1,Wed,TRUE,Pilates,17:37:00,18:28:00,51,TRUE,Mike
+257,Worth,Male,28-03-1979,45,Standard,2,"Tue, Wed",TRUE,"XCore, Yoga",08:12:00,09:55:00,103,FALSE,
+258,Bronnie,Male,21-12-2001,22,Standard,2,"Fri, Sun",FALSE,,19:49:00,21:25:00,96,FALSE,
+259,Muire,Female,08-05-2007,17,Premium,5,"Mon, Sat, Thu, Tue, Wed",FALSE,,10:02:00,11:31:00,89,TRUE,Chantal
+260,Jaquelyn,Female,24-05-1992,32,Standard,5,"Mon, Sat, Sun, Tue, Wed",FALSE,,08:20:00,10:52:00,152,FALSE,
+261,Eamon,Male,02-10-1980,44,Standard,2,"Mon, Sat",FALSE,,12:01:00,13:48:00,107,FALSE,
+262,Caritta,Female,27-05-1977,47,Premium,2,"Fri, Thu",TRUE,"Yoga, LesMiles, BodyBalance",08:39:00,09:25:00,46,TRUE,Chantal
+263,Star,Female,19-03-1981,43,Standard,1,Tue,FALSE,,08:17:00,10:01:00,104,TRUE,Jeffrey
+264,Padraig,Male,05-07-1976,48,Standard,5,"Mon, Sun, Thu, Tue, Wed",FALSE,,15:42:00,16:38:00,56,TRUE,Hanna
+265,Reina,Female,30-07-1992,32,Standard,5,"Fri, Mon, Sat, Tue, Wed",FALSE,,19:52:00,22:44:00,172,TRUE,Mike
+266,Prudence,Female,06-02-1987,37,Standard,3,"Mon, Sat, Tue",TRUE,"Zumba, Yoga, Pilates",18:07:00,20:22:00,135,FALSE,
+267,Bertie,Female,12-05-1988,36,Standard,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,11:33:00,14:00:00,147,FALSE,
+268,Chadwick,Male,03-12-2001,22,Premium,4,"Fri, Sun, Thu, Wed",FALSE,,18:08:00,19:36:00,88,TRUE,Mike
+269,Vinny,Male,07-10-1987,36,Premium,2,"Thu, Tue",FALSE,,09:59:00,11:53:00,114,FALSE,
+270,Abby,Male,01-03-1985,39,Standard,3,"Sat, Thu, Tue",TRUE,BodyPump,15:19:00,16:03:00,44,TRUE,Mike
+271,Craggy,Male,28-12-1976,47,Standard,3,"Mon, Sat, Wed",FALSE,,10:08:00,10:41:00,33,TRUE,Hanna
+272,Arley,Male,12-01-1975,49,Premium,2,"Fri, Tue",TRUE,Yoga,13:20:00,16:16:00,176,TRUE,Chantal
+273,Quincy,Male,27-12-1996,27,Standard,2,"Mon, Sun",FALSE,,11:23:00,13:25:00,122,TRUE,Chantal
+274,Elset,Female,03-04-1980,44,Standard,2,"Fri, Sat",TRUE,"Pilates, HIT",19:30:00,21:28:00,118,FALSE,
+275,Gunther,Male,09-06-2011,13,Standard,2,"Mon, Thu",FALSE,,09:38:00,11:56:00,138,FALSE,
+276,Horatio,Male,02-04-2010,14,Standard,2,"Sun, Thu",TRUE,LesMiles,11:21:00,12:29:00,68,FALSE,
+277,Trista,Female,25-04-1999,25,Standard,2,"Fri, Mon",FALSE,,10:38:00,13:35:00,177,TRUE,Hanna
+278,Leon,Male,03-02-1992,32,Premium,2,"Mon, Sat",TRUE,"Yoga, XCore, Spinning",13:19:00,14:13:00,54,TRUE,Mike
+279,Mathilda,Female,15-10-1994,29,Standard,4,"Mon, Sun, Tue, Wed",FALSE,,10:43:00,12:30:00,107,TRUE,Hanna
+280,Zachariah,Male,24-01-1983,41,Standard,2,"Sat, Wed",TRUE,"Pilates, XCore",10:29:00,11:09:00,40,TRUE,Chantal
+281,Dorey,Male,01-06-2003,21,Premium,2,"Sun, Tue",TRUE,"Pilates, HIT, Running",15:40:00,16:47:00,67,TRUE,Chantal
+282,Daniel,Male,06-07-1999,25,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"Zumba, Kickboxen",12:25:00,13:26:00,61,FALSE,
+283,Dionis,Female,16-12-2002,21,Premium,2,"Sun, Wed",TRUE,"LesMiles, BodyBalance",14:55:00,17:40:00,165,TRUE,Mike
+284,Marnie,Female,21-12-2010,13,Standard,2,"Sun, Tue",FALSE,,12:52:00,15:32:00,160,FALSE,
+285,Earl,Male,08-06-1976,48,Premium,4,"Fri, Mon, Thu, Tue",FALSE,,13:33:00,14:07:00,34,FALSE,
+286,Dimitry,Male,23-01-2004,20,Premium,5,"Fri, Sun, Thu, Tue, Wed",FALSE,,20:16:00,21:49:00,93,TRUE,Mike
+287,Hieronymus,Male,07-10-1987,36,Premium,2,"Thu, Wed",TRUE,"BodyPump, Running, LesMiles",19:39:00,22:03:00,144,FALSE,
+288,Piggy,Male,12-06-1982,42,Premium,5,"Fri, Mon, Sun, Thu, Wed",FALSE,,17:30:00,20:09:00,159,FALSE,
+289,Gwendolin,Female,19-04-2004,20,Premium,3,"Sat, Sun, Wed",TRUE,Zumba,08:53:00,11:29:00,156,TRUE,Mike
+290,Chelsy,Female,05-05-1998,26,Standard,2,"Fri, Thu",TRUE,"XCore, LesMiles",15:52:00,18:05:00,133,FALSE,
+291,Barbi,Female,24-04-1982,42,Premium,5,"Mon, Sat, Thu, Tue, Wed",FALSE,,09:49:00,11:31:00,102,FALSE,
+292,Mitchel,Male,26-07-2007,17,Standard,1,Sat,FALSE,,16:59:00,18:58:00,119,FALSE,
+293,Merilee,Female,04-05-1998,26,Premium,1,Sun,TRUE,"Yoga, BodyBalance, Running",16:31:00,18:53:00,142,TRUE,Hanna
+294,Maitilde,Female,02-09-1983,41,Premium,1,Thu,TRUE,"Yoga, Pilates, Running",13:14:00,14:57:00,103,FALSE,
+295,Abbie,Male,09-10-1988,35,Standard,3,"Sat, Tue, Wed",FALSE,,15:28:00,18:08:00,160,FALSE,
+296,Evie,Female,30-12-2000,23,Standard,4,"Fri, Mon, Sat, Thu",FALSE,,10:17:00,12:41:00,144,FALSE,
+297,Georas,Male,09-05-1994,30,Standard,5,"Mon, Sun, Thu, Tue, Wed",FALSE,,17:29:00,19:35:00,126,TRUE,Jeffrey
+298,Nicki,Female,09-04-1990,34,Premium,2,"Sat, Tue",FALSE,,19:17:00,20:25:00,68,TRUE,Chantal
+299,Avis,Female,27-03-1981,43,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,12:31:00,15:09:00,158,TRUE,Mike
+300,Ives,Male,09-07-2011,13,Premium,3,"Mon, Sat, Wed",TRUE,"Spinning, BodyPump, Running",14:53:00,16:05:00,72,FALSE,
+301,Amalea,Female,14-04-2001,23,Premium,3,"Sat, Sun, Tue",TRUE,"Kickboxen, Spinning, LesMiles",13:06:00,13:58:00,52,TRUE,Chantal
+302,Sigismondo,Male,03-01-1979,45,Standard,3,"Sat, Tue, Wed",TRUE,"BodyPump, Pilates, HIT",12:48:00,13:20:00,32,TRUE,Jeffrey
+303,Therese,Female,23-01-1982,42,Standard,3,"Mon, Sun, Tue",FALSE,,13:32:00,14:39:00,67,TRUE,Hanna
+304,Godfry,Male,28-12-1988,35,Standard,1,Mon,FALSE,,13:53:00,14:28:00,35,FALSE,
+305,Alfie,Male,02-08-1998,26,Standard,4,"Fri, Mon, Thu, Wed",TRUE,"Spinning, BodyPump",08:48:00,09:20:00,32,FALSE,
+306,Seumas,Male,28-10-2003,20,Standard,2,"Sun, Wed",TRUE,"Running, Spinning, BodyPump",11:47:00,13:48:00,121,TRUE,Chantal
+307,Elora,Female,06-04-1992,32,Standard,3,"Fri, Sun, Tue",FALSE,,17:30:00,20:09:00,159,TRUE,Chantal
+308,Jodee,Female,02-07-1993,31,Premium,4,"Sun, Thu, Tue, Wed",FALSE,,11:54:00,13:52:00,118,FALSE,
+309,Virge,Male,28-06-1995,29,Standard,3,"Fri, Sun, Wed",FALSE,,15:05:00,17:57:00,172,TRUE,Mike
+310,Jeremias,Male,08-02-1990,34,Standard,2,"Mon, Sat",TRUE,"BodyPump, Pilates",19:18:00,20:56:00,98,TRUE,Chantal
+311,Christabella,Female,20-07-1980,44,Standard,1,Mon,FALSE,,17:41:00,19:59:00,138,TRUE,Chantal
+312,Taite,Male,03-06-2002,22,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,LesMiles,17:41:00,19:25:00,104,FALSE,
+313,Freemon,Male,28-12-1975,48,Standard,1,Wed,TRUE,"BodyPump, BodyBalance",19:29:00,20:20:00,51,FALSE,
+314,Worden,Male,06-03-1988,36,Standard,1,Thu,FALSE,,19:20:00,20:36:00,76,FALSE,
+315,Dante,Male,29-02-2008,16,Premium,1,Sat,TRUE,XCore,08:38:00,10:27:00,109,TRUE,Mike
+316,Eric,Male,28-12-2009,14,Standard,3,"Mon, Sun, Wed",FALSE,,20:52:00,21:29:00,37,TRUE,Chantal
+317,Willie,Male,27-09-1988,36,Premium,3,"Fri, Mon, Thu",FALSE,,11:06:00,13:10:00,124,TRUE,Chantal
+318,Curran,Male,18-05-1984,40,Premium,2,"Fri, Sat",FALSE,,11:37:00,13:16:00,99,TRUE,Chantal
+319,Dexter,Male,01-06-1992,32,Premium,3,"Fri, Mon, Sun",FALSE,,10:38:00,13:28:00,170,FALSE,
+320,Lavinia,Female,23-01-2012,12,Standard,5,"Mon, Sun, Thu, Tue, Wed",TRUE,"HIT, LesMiles, Pilates",09:36:00,12:06:00,150,TRUE,Chantal
+321,Ernesto,Male,22-04-1998,26,Premium,3,"Fri, Sun, Tue",FALSE,,14:11:00,16:33:00,142,FALSE,
+322,Marcus,Male,03-11-2000,23,Standard,2,"Sun, Thu",FALSE,,20:18:00,21:26:00,68,TRUE,Chantal
+323,Benjamin,Male,19-06-1998,26,Premium,5,"Mon, Sat, Sun, Thu, Wed",TRUE,"Running, Kickboxen, XCore",17:11:00,17:44:00,33,TRUE,Chantal
+324,Belicia,Female,14-07-1994,30,Standard,3,"Sun, Thu, Tue",TRUE,Pilates,19:16:00,22:03:00,167,TRUE,Chantal
+325,Quinton,Male,19-02-1995,29,Standard,3,"Sat, Sun, Wed",FALSE,,10:34:00,12:01:00,87,FALSE,
+326,Corette,Female,03-07-1977,47,Standard,3,"Thu, Tue, Wed",FALSE,,18:24:00,19:40:00,76,FALSE,
+327,Noel,Female,21-09-2011,13,Standard,3,"Fri, Mon, Wed",FALSE,,14:01:00,16:47:00,166,FALSE,
+328,Lexine,Female,30-09-2002,22,Standard,5,"Mon, Sat, Thu, Tue, Wed",FALSE,,13:52:00,15:35:00,103,FALSE,
+329,Davy,Male,30-06-1991,33,Premium,4,"Mon, Sat, Sun, Wed",TRUE,"Running, BodyBalance",09:15:00,10:16:00,61,FALSE,
+330,Elisabet,Female,13-08-1997,27,Standard,2,"Mon, Sat",FALSE,,11:43:00,12:53:00,70,FALSE,
+331,Jeannette,Female,06-08-1989,35,Premium,2,"Fri, Wed",TRUE,"Kickboxen, XCore",16:36:00,17:06:00,30,FALSE,
+332,Corey,Female,22-02-2003,21,Premium,3,"Fri, Mon, Sat",TRUE,XCore,20:22:00,21:10:00,48,FALSE,
+333,Derwin,Male,13-06-1984,40,Premium,3,"Mon, Sat, Thu",FALSE,,11:18:00,12:13:00,55,TRUE,Hanna
+334,Keelby,Male,02-07-2009,15,Standard,3,"Sat, Thu, Wed",FALSE,,17:29:00,18:26:00,57,FALSE,
+335,Ladonna,Female,21-11-2000,23,Premium,3,"Mon, Sat, Thu",FALSE,,13:42:00,15:11:00,89,FALSE,
+336,Malanie,Female,02-03-1975,49,Standard,1,Fri,TRUE,"Running, BodyBalance, Spinning",10:40:00,12:01:00,81,TRUE,Chantal
+337,Norris,Male,13-04-1982,42,Premium,2,"Sun, Thu",FALSE,,18:22:00,21:02:00,160,TRUE,Chantal
+338,Jarib,Male,04-10-1997,26,Premium,3,"Mon, Sun, Wed",TRUE,Zumba,10:06:00,11:54:00,108,FALSE,
+339,Brenda,Female,04-09-1983,41,Standard,3,"Mon, Sat, Thu",TRUE,XCore,15:40:00,17:32:00,112,TRUE,Chantal
+340,Sanderson,Male,22-03-2002,22,Premium,3,"Mon, Sat, Tue",TRUE,"HIT, Kickboxen, Zumba",18:51:00,20:52:00,121,TRUE,Jeffrey
+341,Rita,Female,16-05-1988,36,Standard,4,"Mon, Sat, Thu, Wed",FALSE,,14:02:00,16:11:00,129,FALSE,
+342,Orren,Male,11-08-1998,26,Standard,5,"Fri, Sat, Sun, Thu, Tue",TRUE,"HIT, Pilates",17:57:00,20:25:00,148,TRUE,Jeffrey
+343,Andreana,Female,07-10-2005,18,Premium,5,"Fri, Sat, Sun, Thu, Wed",TRUE,"Running, Pilates, XCore",09:53:00,11:14:00,81,TRUE,Mike
+344,Janela,Female,10-10-1986,37,Standard,4,"Mon, Sat, Sun, Wed",TRUE,HIT,12:50:00,15:36:00,166,FALSE,
+345,Wes,Male,18-08-1985,39,Standard,2,"Mon, Sun",FALSE,,14:30:00,17:29:00,179,TRUE,Mike
+346,Domeniga,Female,18-07-1981,43,Premium,3,"Fri, Tue, Wed",TRUE,Kickboxen,12:17:00,14:35:00,138,FALSE,
+347,Valentine,Female,08-10-1985,38,Standard,3,"Thu, Tue, Wed",FALSE,,16:51:00,18:05:00,74,FALSE,
+348,Karim,Male,02-07-2003,21,Standard,3,"Sun, Tue, Wed",FALSE,,12:59:00,14:01:00,62,FALSE,
+349,Sheryl,Female,18-06-1985,39,Standard,2,"Fri, Tue",FALSE,,12:53:00,15:12:00,139,TRUE,Jeffrey
+350,Joelie,Female,21-11-1988,35,Standard,2,"Tue, Wed",TRUE,"Pilates, BodyBalance",16:20:00,17:42:00,82,TRUE,Jeffrey
+351,Jerri,Male,30-10-1988,35,Standard,1,Mon,TRUE,"BodyBalance, Zumba",19:27:00,20:34:00,67,FALSE,
+352,Rici,Female,02-03-1993,31,Standard,1,Sun,TRUE,"Spinning, LesMiles",09:42:00,11:25:00,103,FALSE,
+353,Constanta,Female,31-05-2009,15,Premium,2,"Mon, Sat",FALSE,,13:37:00,15:14:00,97,TRUE,Mike
+354,Shoshanna,Female,05-06-1980,44,Premium,2,"Sun, Tue",TRUE,"BodyBalance, BodyPump",17:13:00,17:46:00,33,FALSE,
+355,Reed,Male,13-02-1987,37,Standard,1,Sat,TRUE,"BodyBalance, Zumba, HIT",16:45:00,17:20:00,35,FALSE,
+356,Alejandro,Male,13-05-1992,32,Standard,1,Tue,TRUE,"Pilates, Spinning, Zumba",18:44:00,20:44:00,120,FALSE,
+357,Dominga,Female,16-09-2007,17,Standard,2,"Fri, Thu",TRUE,"LesMiles, Kickboxen",20:55:00,21:25:00,30,FALSE,
+358,Carla,Female,27-07-1987,37,Standard,1,Wed,TRUE,"XCore, Zumba, BodyPump",18:06:00,21:05:00,179,FALSE,
+359,Alikee,Female,05-02-1999,25,Standard,3,"Mon, Sat, Sun",FALSE,,15:21:00,16:30:00,69,TRUE,Hanna
+360,Wini,Female,02-05-1992,32,Standard,2,"Mon, Thu",TRUE,LesMiles,17:04:00,18:13:00,69,TRUE,Jeffrey
+361,Leilah,Female,14-05-1980,44,Standard,5,"Fri, Mon, Sun, Thu, Tue",TRUE,Running,20:04:00,21:57:00,113,TRUE,Mike
+362,Melli,Female,28-06-1987,37,Premium,4,"Sat, Thu, Tue, Wed",TRUE,"Pilates, HIT, Spinning",11:51:00,13:09:00,78,FALSE,
+363,Nikki,Male,25-02-2007,17,Standard,1,Sat,TRUE,Running,12:17:00,13:56:00,99,TRUE,Chantal
+364,Thea,Female,27-06-1990,34,Standard,3,"Mon, Thu, Wed",TRUE,Spinning,10:47:00,11:21:00,34,TRUE,Chantal
+365,Shannon,Female,24-09-2003,21,Premium,2,"Fri, Sun",TRUE,"Kickboxen, Zumba",18:40:00,21:31:00,171,TRUE,Hanna
+366,Nicolais,Male,04-06-1980,44,Standard,3,"Mon, Sun, Wed",FALSE,,10:31:00,12:58:00,147,TRUE,Chantal
+367,Cissy,Female,26-02-1996,28,Standard,2,"Fri, Sat",TRUE,"XCore, Zumba, Running",20:22:00,21:04:00,42,FALSE,
+368,Luca,Male,09-07-2001,23,Premium,1,Tue,TRUE,"BodyBalance, Yoga, XCore",20:41:00,22:32:00,111,TRUE,Chantal
+369,Hadrian,Male,09-05-1995,29,Premium,1,Mon,TRUE,"HIT, Running, Yoga",17:22:00,20:11:00,169,TRUE,Jeffrey
+370,Maryellen,Female,05-01-1996,28,Premium,1,Fri,TRUE,"Spinning, Yoga, Kickboxen",13:08:00,15:56:00,168,TRUE,Hanna
+371,Bil,Male,25-05-2003,21,Premium,2,"Sat, Thu",FALSE,,20:10:00,21:42:00,92,FALSE,
+372,Ilyse,Female,10-10-1978,45,Premium,5,"Fri, Mon, Sat, Thu, Wed",TRUE,"Running, Zumba",11:18:00,11:49:00,31,TRUE,Jeffrey
+373,Agatha,Female,26-08-1991,33,Premium,2,"Fri, Tue",TRUE,BodyBalance,08:52:00,11:42:00,170,FALSE,
+374,Portia,Female,16-12-1984,39,Premium,2,"Sat, Wed",TRUE,HIT,17:43:00,18:13:00,30,TRUE,Chantal
+375,Kelley,Male,14-12-1998,25,Premium,2,"Mon, Sun",FALSE,,16:54:00,18:36:00,102,TRUE,Mike
+376,Beryle,Female,29-07-1995,29,Premium,3,"Sat, Sun, Thu",TRUE,BodyPump,20:16:00,22:05:00,109,FALSE,
+377,Parke,Male,13-10-1990,33,Premium,3,"Fri, Mon, Wed",FALSE,,14:36:00,17:18:00,162,TRUE,Mike
+378,Colan,Male,22-08-1984,40,Premium,2,"Sat, Thu",TRUE,"Running, Pilates",18:52:00,20:54:00,122,FALSE,
+379,Alexina,Female,07-03-2010,14,Premium,3,"Thu, Tue, Wed",FALSE,,08:29:00,09:11:00,42,FALSE,
+380,Vasilis,Male,02-06-1981,43,Standard,1,Mon,FALSE,,19:38:00,22:32:00,174,FALSE,
+381,Ronald,Male,25-07-1998,26,Premium,5,"Fri, Mon, Sat, Sun, Tue",FALSE,,18:01:00,18:46:00,45,FALSE,
+382,Hagen,Male,06-12-1978,45,Premium,2,"Sat, Wed",TRUE,HIT,14:20:00,15:52:00,92,TRUE,Hanna
+383,Marje,Female,28-08-1998,26,Standard,2,"Sat, Wed",FALSE,,20:26:00,22:10:00,104,TRUE,Chantal
+384,Priscilla,Female,12-06-1998,26,Premium,3,"Mon, Sun, Thu",TRUE,"BodyBalance, Spinning, HIT",17:35:00,18:32:00,57,FALSE,
+385,Maiga,Female,12-01-2008,16,Premium,3,"Mon, Sat, Wed",TRUE,"LesMiles, HIT",12:45:00,14:31:00,106,TRUE,Hanna
+386,Joel,Male,09-06-1975,49,Premium,1,Tue,TRUE,"Kickboxen, Zumba, Yoga",13:06:00,13:57:00,51,TRUE,Hanna
+387,Woody,Male,03-09-1998,26,Premium,2,"Fri, Tue",TRUE,"XCore, Yoga",19:08:00,21:26:00,138,TRUE,Jeffrey
+388,Ave,Male,17-03-2005,19,Standard,2,"Fri, Sat",TRUE,"LesMiles, BodyPump, Spinning",20:23:00,21:28:00,65,TRUE,Jeffrey
+389,Zola,Female,11-06-1990,34,Premium,1,Sat,TRUE,"Spinning, Pilates",17:57:00,18:59:00,62,TRUE,Chantal
+390,Devi,Female,12-09-2012,12,Standard,3,"Fri, Thu, Wed",FALSE,,08:59:00,09:37:00,38,TRUE,Hanna
+391,Cordelie,Female,06-02-1998,26,Standard,5,"Fri, Mon, Sat, Sun, Tue",FALSE,,13:34:00,15:46:00,132,FALSE,
+392,Dreddy,Female,18-05-1985,39,Standard,2,"Mon, Thu",TRUE,Spinning,08:25:00,10:44:00,139,TRUE,Jeffrey
+393,Lenna,Female,28-08-1983,41,Standard,4,"Sat, Sun, Thu, Wed",TRUE,"XCore, Spinning, Yoga",10:09:00,12:30:00,141,FALSE,
+394,Taffy,Female,14-05-2007,17,Premium,2,"Sat, Sun",FALSE,,09:30:00,11:39:00,129,TRUE,Hanna
+395,Shelly,Female,27-10-1995,28,Standard,3,"Sat, Thu, Tue",FALSE,,19:59:00,20:59:00,60,TRUE,Chantal
+396,Yetta,Female,13-11-1986,37,Premium,3,"Sat, Thu, Tue",FALSE,,13:08:00,14:14:00,66,FALSE,
+397,Hetti,Female,18-06-1991,33,Standard,3,"Mon, Sat, Tue",FALSE,,08:47:00,10:05:00,78,FALSE,
+398,Edna,Female,28-06-1979,45,Premium,2,"Sun, Thu",TRUE,LesMiles,10:37:00,11:52:00,75,TRUE,Hanna
+399,Rafferty,Male,09-03-2007,17,Premium,2,"Sat, Sun",FALSE,,08:38:00,09:57:00,79,TRUE,Mike
+400,Logan,Male,14-11-1994,29,Standard,3,"Fri, Sat, Thu",TRUE,"Kickboxen, XCore, Zumba",13:02:00,15:10:00,128,FALSE,
+401,Evy,Female,11-10-2004,19,Premium,1,Fri,FALSE,,17:52:00,18:35:00,43,TRUE,Hanna
+402,Ashly,Female,21-06-2007,17,Premium,2,"Sun, Thu",TRUE,"LesMiles, Zumba, HIT",16:58:00,18:11:00,73,FALSE,
+403,Nelie,Female,04-12-2007,16,Premium,3,"Fri, Thu, Tue",FALSE,,15:15:00,16:13:00,58,TRUE,Chantal
+404,Ronna,Female,09-08-2009,15,Premium,3,"Sat, Sun, Tue",TRUE,"Kickboxen, XCore",11:02:00,11:44:00,42,TRUE,Chantal
+405,Eldredge,Male,05-04-1997,27,Premium,2,"Fri, Mon",TRUE,"LesMiles, Yoga",16:35:00,19:02:00,147,TRUE,Jeffrey
+406,Leela,Female,11-06-1998,26,Standard,4,"Fri, Mon, Thu, Wed",TRUE,"Pilates, Kickboxen",13:03:00,14:01:00,58,TRUE,Chantal
+407,Oralie,Female,28-09-2002,22,Standard,3,"Fri, Sat, Wed",TRUE,"LesMiles, HIT",17:29:00,19:20:00,111,FALSE,
+408,Alejandro,Male,23-12-2001,22,Premium,1,Sun,FALSE,,11:31:00,12:37:00,66,TRUE,Chantal
+409,Cthrine,Female,19-12-2004,19,Standard,3,"Fri, Mon, Sat",FALSE,,18:07:00,20:08:00,121,TRUE,Jeffrey
+410,Zedekiah,Male,01-04-1979,45,Premium,3,"Thu, Tue, Wed",FALSE,,11:20:00,12:10:00,50,TRUE,Mike
+411,Aeriell,Female,27-08-1980,44,Standard,2,"Mon, Sat",FALSE,,11:53:00,14:46:00,173,FALSE,
+412,Adolph,Male,09-12-1984,39,Standard,2,"Sun, Thu",TRUE,"LesMiles, Pilates",19:02:00,19:40:00,38,TRUE,Chantal
+413,Myrwyn,Male,26-10-1993,30,Premium,1,Fri,TRUE,"LesMiles, Running, HIT",08:38:00,11:05:00,147,TRUE,Mike
+414,Truda,Female,01-01-1995,29,Standard,1,Wed,TRUE,"BodyPump, Running",12:26:00,14:19:00,113,FALSE,
+415,Maiga,Female,26-12-1994,29,Premium,1,Sun,FALSE,,16:54:00,18:37:00,103,TRUE,Chantal
+416,Olag,Male,12-01-1988,36,Premium,3,"Sat, Sun, Wed",TRUE,"LesMiles, BodyPump",19:37:00,20:44:00,67,FALSE,
+417,Mab,Female,02-11-2007,16,Standard,3,"Fri, Sat, Thu",TRUE,"Kickboxen, Zumba",14:53:00,16:28:00,95,FALSE,
+418,Stafani,Female,25-09-1975,49,Premium,3,"Fri, Tue, Wed",FALSE,,19:37:00,21:16:00,99,FALSE,
+419,Janela,Female,26-11-2004,19,Premium,3,"Mon, Tue, Wed",TRUE,Kickboxen,10:33:00,12:17:00,104,FALSE,
+420,Durward,Male,27-02-1978,46,Premium,2,"Sat, Tue",FALSE,,11:27:00,14:08:00,161,TRUE,Hanna
+421,Caitlin,Female,09-01-1998,26,Standard,3,"Sun, Thu, Tue",FALSE,,14:54:00,16:47:00,113,TRUE,Chantal
+422,Jessalin,Female,21-05-1990,34,Standard,4,"Fri, Thu, Tue, Wed",FALSE,,12:46:00,14:56:00,130,FALSE,
+423,Koren,Female,18-04-1987,37,Premium,5,"Fri, Mon, Thu, Tue, Wed",TRUE,"XCore, Pilates, Spinning",18:48:00,19:33:00,45,TRUE,Chantal
+424,Kimberlee,Female,02-04-2002,22,Premium,1,Thu,TRUE,Pilates,12:27:00,14:23:00,116,FALSE,
+425,Rockwell,Male,03-05-1983,41,Premium,5,"Mon, Sat, Thu, Tue, Wed",FALSE,,16:21:00,18:28:00,127,TRUE,Chantal
+426,Cal,Female,09-07-1985,39,Premium,2,"Thu, Tue",FALSE,,20:04:00,21:56:00,112,FALSE,
+427,Robers,Male,02-05-2010,14,Premium,3,"Sun, Thu, Wed",FALSE,,16:05:00,17:51:00,106,TRUE,Mike
+428,Ainslie,Female,22-07-2008,16,Standard,3,"Fri, Sat, Thu",TRUE,Pilates,14:06:00,14:58:00,52,FALSE,
+429,Basil,Male,19-04-1993,31,Standard,2,"Sun, Tue",TRUE,Yoga,17:57:00,19:04:00,67,TRUE,Jeffrey
+430,Maryanna,Female,06-12-1998,25,Standard,2,"Mon, Wed",FALSE,,15:12:00,17:51:00,159,TRUE,Chantal
+431,Willard,Male,16-07-1993,31,Premium,2,"Mon, Tue",TRUE,Zumba,16:01:00,17:27:00,86,FALSE,
+432,Reed,Male,10-01-1994,30,Standard,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"Yoga, LesMiles",10:56:00,13:31:00,155,TRUE,Jeffrey
+433,Becca,Female,28-01-1977,47,Premium,3,"Fri, Sun, Tue",FALSE,,14:51:00,17:19:00,148,FALSE,
+434,Sabra,Female,29-04-1995,29,Standard,5,"Fri, Sun, Thu, Tue, Wed",FALSE,,18:14:00,21:08:00,174,FALSE,
+435,Maisie,Female,20-04-1981,43,Standard,1,Sat,TRUE,Yoga,14:44:00,17:19:00,155,TRUE,Chantal
+436,Dalt,Male,02-05-2001,23,Standard,1,Sun,FALSE,,11:28:00,13:03:00,95,TRUE,Mike
+437,Aldwin,Male,23-08-1997,27,Premium,2,"Sat, Sun",TRUE,"LesMiles, Spinning, BodyBalance",16:29:00,19:03:00,154,FALSE,
+438,Averil,Male,22-02-1990,34,Premium,2,"Mon, Thu",FALSE,,17:18:00,19:59:00,161,TRUE,Mike
+439,Cchaddie,Male,20-12-2011,12,Standard,2,"Sat, Wed",TRUE,Kickboxen,13:58:00,16:09:00,131,TRUE,Chantal
+440,Griffin,Male,27-09-1987,37,Premium,1,Fri,TRUE,"Running, BodyPump",13:10:00,15:39:00,149,FALSE,
+441,Risa,Female,24-03-1986,38,Standard,3,"Mon, Thu, Wed",TRUE,"Spinning, LesMiles, Yoga",16:41:00,19:37:00,176,FALSE,
+442,Joyce,Female,17-05-1994,30,Standard,1,Fri,FALSE,,14:08:00,16:01:00,113,TRUE,Hanna
+443,Merrie,Female,11-11-1998,25,Standard,2,"Sun, Thu",TRUE,"Running, BodyPump",13:59:00,14:43:00,44,TRUE,Jeffrey
+444,Orville,Male,23-02-1975,49,Standard,2,"Fri, Thu",FALSE,,18:40:00,21:15:00,155,TRUE,Hanna
+445,Amabel,Female,11-04-1989,35,Premium,1,Sun,FALSE,,12:12:00,14:33:00,141,FALSE,
+446,Alyce,Female,05-12-1982,41,Standard,2,"Mon, Tue",TRUE,"HIT, Yoga, BodyPump",14:06:00,16:58:00,172,TRUE,Jeffrey
+447,Wittie,Male,09-04-1991,33,Premium,3,"Mon, Sun, Wed",FALSE,,09:14:00,10:24:00,70,FALSE,
+448,Jean,Female,13-07-1997,27,Premium,2,"Fri, Thu",FALSE,,17:22:00,18:04:00,42,FALSE,
+449,Catriona,Female,23-07-2006,18,Standard,3,"Fri, Sun, Thu",TRUE,BodyBalance,18:43:00,20:53:00,130,FALSE,
+450,Hunter,Male,24-06-2006,18,Premium,4,"Fri, Sat, Tue, Wed",TRUE,"Running, Spinning, BodyBalance",19:08:00,20:21:00,73,FALSE,
+451,Cherish,Female,09-04-1994,30,Premium,4,"Mon, Sat, Tue, Wed",TRUE,BodyPump,14:27:00,17:01:00,154,TRUE,Jeffrey
+452,Augusta,Female,16-06-1985,39,Standard,4,"Sat, Thu, Tue, Wed",TRUE,"Spinning, HIT, BodyPump",16:21:00,19:03:00,162,TRUE,Jeffrey
+453,Malynda,Female,25-03-1994,30,Standard,3,"Mon, Sat, Wed",TRUE,"Yoga, BodyPump",18:36:00,19:35:00,59,TRUE,Jeffrey
+454,Philippine,Female,10-01-1999,25,Premium,4,"Mon, Thu, Tue, Wed",TRUE,Running,18:14:00,20:56:00,162,TRUE,Chantal
+455,Sallie,Female,19-05-2008,16,Standard,1,Sat,TRUE,"BodyBalance, Running",20:02:00,21:17:00,75,TRUE,Mike
+456,Preston,Male,26-12-1993,30,Standard,3,"Sat, Thu, Wed",TRUE,"Yoga, Zumba, HIT",14:55:00,15:27:00,32,TRUE,Chantal
+457,Maggi,Female,19-03-1983,41,Premium,1,Sat,FALSE,,16:21:00,17:07:00,46,TRUE,Hanna
+458,Edi,Female,14-02-1986,38,Standard,3,"Fri, Thu, Tue",TRUE,"Pilates, Kickboxen, Zumba",11:37:00,13:01:00,84,TRUE,Jeffrey
+459,Ancell,Male,02-03-1978,46,Standard,3,"Mon, Thu, Wed",FALSE,,18:28:00,20:58:00,150,TRUE,Jeffrey
+460,Blithe,Female,20-12-1995,28,Premium,4,"Fri, Mon, Sun, Thu",FALSE,,09:22:00,11:29:00,127,TRUE,Jeffrey
+461,Gianni,Male,23-06-2009,15,Premium,2,"Mon, Wed",TRUE,"XCore, Pilates, Yoga",19:07:00,20:19:00,72,FALSE,
+462,Care,Male,01-06-1999,25,Premium,2,"Sun, Tue",FALSE,,10:55:00,13:51:00,176,FALSE,
+463,Sidoney,Female,22-04-2006,18,Standard,2,"Fri, Thu",FALSE,,18:15:00,18:55:00,40,FALSE,
+464,Arda,Female,20-09-1986,38,Premium,4,"Sat, Sun, Thu, Tue",TRUE,"BodyPump, XCore",20:54:00,21:43:00,49,TRUE,Hanna
+465,Abagael,Female,29-10-2001,22,Standard,4,"Fri, Mon, Sat, Thu",FALSE,,14:33:00,16:01:00,88,FALSE,
+466,Krystle,Female,13-01-1980,44,Premium,3,"Fri, Mon, Sun",FALSE,,17:47:00,20:30:00,163,TRUE,Jeffrey
+467,Gregorio,Male,27-01-2010,14,Premium,5,"Fri, Sat, Thu, Tue, Wed",TRUE,"BodyBalance, Kickboxen",08:25:00,10:21:00,116,TRUE,Mike
+468,Nananne,Female,28-01-1983,41,Premium,3,"Mon, Sat, Thu",FALSE,,09:56:00,10:40:00,44,TRUE,Chantal
+469,Decca,Male,21-06-1990,34,Premium,2,"Sun, Wed",TRUE,"LesMiles, Pilates",13:39:00,16:22:00,163,TRUE,Jeffrey
+470,Gard,Male,07-10-1998,25,Premium,1,Sat,TRUE,"Pilates, Kickboxen",12:45:00,14:05:00,80,TRUE,Chantal
+471,Latisha,Female,23-04-1976,48,Standard,1,Sun,FALSE,,10:42:00,13:00:00,138,TRUE,Chantal
+472,Thorvald,Male,02-01-1979,45,Standard,1,Tue,TRUE,"Running, Zumba",09:31:00,10:10:00,39,FALSE,
+473,Boniface,Male,18-11-2003,20,Standard,4,"Fri, Thu, Tue, Wed",TRUE,"Running, LesMiles, Yoga",09:46:00,11:43:00,117,TRUE,Mike
+474,Walker,Male,03-08-1991,33,Standard,3,"Sat, Tue, Wed",TRUE,"BodyBalance, LesMiles, Kickboxen",16:59:00,19:25:00,146,TRUE,Jeffrey
+475,Lyon,Male,04-04-2001,23,Standard,2,"Thu, Wed",FALSE,,11:56:00,13:01:00,65,TRUE,Jeffrey
+476,Mendy,Male,09-07-2001,23,Standard,2,"Tue, Wed",TRUE,"XCore, BodyPump, HIT",17:37:00,19:46:00,129,TRUE,Mike
+477,Melisa,Female,09-03-2002,22,Premium,1,Sun,FALSE,,09:43:00,12:29:00,166,FALSE,
+478,Claretta,Female,31-10-1980,43,Standard,3,"Fri, Mon, Wed",FALSE,,11:56:00,12:44:00,48,TRUE,Mike
+479,Ingamar,Male,23-03-2010,14,Premium,2,"Sun, Thu",FALSE,,12:23:00,14:55:00,152,TRUE,Chantal
+480,Ikey,Male,25-07-2000,24,Premium,2,"Fri, Sun",TRUE,"Zumba, Yoga",11:46:00,13:53:00,127,FALSE,
+481,Felicdad,Female,26-03-1979,45,Standard,1,Sun,FALSE,,20:40:00,22:28:00,108,FALSE,
+482,Edmund,Male,27-07-2005,19,Premium,2,"Mon, Tue",TRUE,LesMiles,12:50:00,13:29:00,39,FALSE,
+483,Agatha,Female,17-03-1998,26,Premium,3,"Fri, Mon, Thu",TRUE,BodyBalance,18:41:00,19:44:00,63,TRUE,Mike
+484,Shurlock,Male,03-05-1996,28,Standard,2,"Mon, Wed",FALSE,,14:12:00,16:30:00,138,FALSE,
+485,Quincey,Male,31-03-1979,45,Standard,1,Tue,TRUE,Yoga,18:07:00,21:04:00,177,FALSE,
+486,Bret,Male,16-09-1975,49,Standard,3,"Mon, Sun, Wed",TRUE,"Pilates, Zumba",17:10:00,18:43:00,93,TRUE,Mike
+487,Mariam,Female,22-02-1998,26,Standard,2,"Fri, Sun",TRUE,"BodyBalance, Spinning",15:44:00,18:44:00,180,TRUE,Chantal
+488,Hodge,Male,25-04-1981,43,Premium,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,17:52:00,19:44:00,112,TRUE,Mike
+489,Huntley,Male,08-10-1991,32,Premium,2,"Mon, Sun",FALSE,,12:42:00,15:05:00,143,TRUE,Mike
+490,Sheilakathryn,Female,14-06-1996,28,Standard,3,"Fri, Sun, Thu",FALSE,,09:55:00,12:11:00,136,TRUE,Chantal
+491,Crysta,Female,18-07-1975,49,Premium,1,Sun,TRUE,Running,08:06:00,08:45:00,39,TRUE,Jeffrey
+492,Angel,Male,19-11-2007,16,Standard,2,"Sat, Thu",FALSE,,11:43:00,14:21:00,158,FALSE,
+493,Elka,Female,15-11-1984,39,Standard,2,"Sat, Thu",TRUE,"Yoga, Kickboxen, Running",15:14:00,17:15:00,121,FALSE,
+494,Mil,Female,22-07-2012,12,Standard,3,"Fri, Mon, Wed",TRUE,"BodyPump, Yoga",11:50:00,13:40:00,110,FALSE,
+495,Efren,Male,30-03-1984,40,Standard,3,"Mon, Thu, Tue",FALSE,,08:41:00,09:28:00,47,FALSE,
+496,Butch,Male,03-12-1979,44,Premium,1,Wed,FALSE,,15:34:00,18:25:00,171,TRUE,Jeffrey
+497,Elbertine,Female,19-09-2012,12,Premium,2,"Sat, Wed",FALSE,,08:05:00,09:11:00,66,FALSE,
+498,Dall,Male,07-08-1981,43,Premium,4,"Fri, Sat, Thu, Wed",TRUE,"BodyBalance, Spinning, BodyPump",10:38:00,12:34:00,116,TRUE,Jeffrey
+499,Cecilia,Female,22-09-1995,29,Premium,3,"Fri, Sat, Tue",TRUE,"XCore, Zumba, Kickboxen",20:43:00,21:18:00,35,FALSE,
+500,Esdras,Male,14-10-2005,18,Standard,3,"Mon, Tue, Wed",FALSE,,14:34:00,15:34:00,60,FALSE,
+501,Gib,Male,14-03-2005,19,Premium,2,"Mon, Tue",TRUE,"Pilates, Spinning, HIT",19:22:00,20:45:00,83,FALSE,
+502,Nolly,Male,29-11-2010,13,Premium,1,Sat,FALSE,,16:10:00,18:57:00,167,FALSE,
+503,Sib,Female,19-10-2007,16,Standard,3,"Sat, Tue, Wed",FALSE,,15:10:00,17:07:00,117,TRUE,Chantal
+504,Filia,Female,01-12-2000,23,Standard,3,"Fri, Sat, Wed",TRUE,"HIT, BodyBalance, BodyPump",12:33:00,15:05:00,152,FALSE,
+505,Remus,Male,02-05-1989,35,Standard,1,Tue,FALSE,,16:19:00,17:12:00,53,FALSE,
+506,Dasie,Female,09-07-1997,27,Premium,2,"Tue, Wed",FALSE,,18:28:00,19:33:00,65,FALSE,
+507,Anna-diane,Female,24-05-1977,47,Premium,2,"Mon, Sun",TRUE,"LesMiles, BodyPump, Zumba",15:09:00,16:45:00,96,TRUE,Chantal
+508,Josh,Male,18-09-1979,45,Standard,1,Sat,FALSE,,19:23:00,21:15:00,112,TRUE,Jeffrey
+509,Joly,Female,21-03-1997,27,Premium,1,Fri,FALSE,,14:17:00,15:27:00,70,FALSE,
+510,Minor,Male,23-03-2005,19,Standard,3,"Thu, Tue, Wed",TRUE,"LesMiles, Running",12:56:00,14:02:00,66,TRUE,Jeffrey
+511,Finley,Male,16-01-1988,36,Standard,1,Mon,TRUE,XCore,11:56:00,14:34:00,158,TRUE,Mike
+512,Jarred,Male,23-12-2000,23,Standard,3,"Mon, Tue, Wed",TRUE,"XCore, Pilates, Spinning",19:02:00,21:29:00,147,FALSE,
+513,Kermy,Male,03-05-1999,25,Premium,1,Mon,TRUE,"Kickboxen, Zumba",14:30:00,15:32:00,62,TRUE,Hanna
+514,Darcee,Female,13-05-2001,23,Standard,3,"Sat, Thu, Tue",TRUE,"Zumba, Kickboxen",12:43:00,14:11:00,88,FALSE,
+515,Laney,Female,23-10-2002,21,Standard,1,Fri,FALSE,,08:29:00,10:46:00,137,FALSE,
+516,Corella,Female,30-10-1975,48,Premium,1,Sun,TRUE,"Yoga, Spinning, BodyBalance",14:44:00,15:19:00,35,TRUE,Chantal
+517,Alec,Male,19-06-1998,26,Standard,4,"Fri, Mon, Sat, Sun",FALSE,,08:44:00,09:58:00,74,FALSE,
+518,Torey,Male,28-06-2007,17,Standard,2,"Thu, Wed",TRUE,"BodyPump, XCore, Yoga",08:24:00,09:41:00,77,FALSE,
+519,Hollis,Male,26-11-2010,13,Standard,2,"Tue, Wed",TRUE,"XCore, BodyPump, Yoga",10:34:00,13:30:00,176,FALSE,
+520,Jo-anne,Female,12-09-1991,33,Standard,3,"Mon, Sat, Wed",FALSE,,19:30:00,22:15:00,165,FALSE,
+521,Mikaela,Female,01-03-1993,31,Premium,4,"Fri, Mon, Sun, Tue",FALSE,,20:33:00,22:09:00,96,FALSE,
+522,Calypso,Female,03-03-2000,24,Standard,2,"Sat, Tue",TRUE,"Zumba, Kickboxen",20:25:00,22:20:00,115,FALSE,
+523,Klarika,Female,12-01-1994,30,Premium,1,Fri,FALSE,,17:59:00,19:38:00,99,TRUE,Chantal
+524,Sofie,Female,17-07-2009,15,Standard,2,"Sat, Thu",TRUE,XCore,14:20:00,14:54:00,34,FALSE,
+525,Charisse,Female,07-04-1997,27,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,18:22:00,18:58:00,36,FALSE,
+526,Tailor,Male,07-01-2008,16,Standard,4,"Mon, Sat, Thu, Wed",TRUE,Zumba,13:43:00,15:48:00,125,TRUE,Mike
+527,Flora,Female,20-08-1990,34,Premium,3,"Fri, Sun, Wed",FALSE,,11:15:00,12:14:00,59,TRUE,Chantal
+528,Yetty,Female,30-07-1998,26,Standard,3,"Sun, Thu, Wed",TRUE,BodyBalance,08:27:00,10:46:00,139,FALSE,
+529,Errol,Male,13-09-2004,20,Premium,2,"Mon, Wed",FALSE,,08:50:00,10:35:00,105,FALSE,
+530,Sandy,Female,17-04-1979,45,Premium,3,"Fri, Sat, Thu",TRUE,"Kickboxen, Running, Pilates",19:59:00,20:43:00,44,FALSE,
+531,Zacharie,Male,10-06-1993,31,Premium,2,"Sat, Sun",TRUE,"Kickboxen, Yoga, Running",14:51:00,15:46:00,55,TRUE,Mike
+532,Skell,Male,28-09-1976,48,Premium,4,"Fri, Mon, Sat, Tue",TRUE,"BodyPump, Kickboxen",16:04:00,16:43:00,39,TRUE,Chantal
+533,Cyndie,Female,29-08-1985,39,Premium,4,"Fri, Mon, Sat, Wed",FALSE,,18:58:00,21:37:00,159,FALSE,
+534,Rabbi,Male,31-01-1996,28,Standard,5,"Fri, Sat, Sun, Tue, Wed",FALSE,,14:53:00,17:41:00,168,FALSE,
+535,Enos,Male,25-09-2006,18,Premium,3,"Fri, Tue, Wed",TRUE,"BodyPump, XCore",17:46:00,19:22:00,96,TRUE,Jeffrey
+536,Giselbert,Male,25-03-1988,36,Premium,3,"Fri, Mon, Thu",FALSE,,16:05:00,16:43:00,38,FALSE,
+537,Jane,Female,18-12-1997,26,Standard,3,"Fri, Sat, Thu",TRUE,"BodyPump, HIT, Zumba",10:22:00,11:11:00,49,TRUE,Chantal
+538,Jethro,Male,26-06-1980,44,Premium,2,"Fri, Thu",FALSE,,08:10:00,10:42:00,152,TRUE,Jeffrey
+539,Dru,Male,18-08-2012,12,Premium,1,Fri,TRUE,"XCore, Pilates",17:08:00,17:40:00,32,FALSE,
+540,Ermanno,Male,12-02-2000,24,Standard,1,Mon,TRUE,Yoga,08:58:00,10:09:00,71,TRUE,Hanna
+541,Solomon,Male,04-09-1976,48,Premium,2,"Mon, Tue",FALSE,,16:59:00,17:48:00,49,FALSE,
+542,Cicily,Female,11-10-2011,12,Premium,1,Tue,TRUE,XCore,11:55:00,14:42:00,167,FALSE,
+543,Perle,Female,03-08-1995,29,Standard,2,"Sat, Sun",FALSE,,14:45:00,15:42:00,57,TRUE,Jeffrey
+544,Bianca,Female,21-09-2012,12,Premium,2,"Fri, Mon",TRUE,"BodyBalance, BodyPump",09:49:00,10:36:00,47,TRUE,Hanna
+545,Ddene,Female,02-06-1987,37,Premium,1,Tue,TRUE,BodyBalance,15:26:00,18:01:00,155,FALSE,
+546,Agnesse,Female,04-11-2003,20,Standard,1,Wed,FALSE,,08:55:00,09:55:00,60,TRUE,Hanna
+547,Papageno,Male,08-09-2002,22,Standard,2,"Fri, Sat",FALSE,,16:19:00,19:01:00,162,FALSE,
+548,Alvina,Female,04-05-2011,13,Standard,2,"Mon, Wed",TRUE,"Pilates, BodyPump",16:36:00,18:18:00,102,FALSE,
+549,Sebastiano,Male,31-07-1989,35,Premium,1,Mon,TRUE,"BodyPump, Spinning, BodyBalance",16:27:00,17:50:00,83,TRUE,Jeffrey
+550,Charyl,Female,31-08-2006,18,Premium,1,Fri,FALSE,,18:01:00,19:25:00,84,TRUE,Jeffrey
+551,Manda,Female,21-09-1988,36,Standard,2,"Mon, Wed",FALSE,,15:38:00,16:42:00,64,TRUE,Mike
+552,Bernetta,Female,05-11-1986,37,Standard,1,Sun,TRUE,"Spinning, HIT",15:55:00,17:06:00,71,FALSE,
+553,Consalve,Male,14-12-1986,37,Standard,3,"Mon, Sat, Thu",TRUE,"Kickboxen, Spinning, BodyBalance",18:23:00,20:10:00,107,FALSE,
+554,Kit,Female,19-01-1978,46,Premium,3,"Fri, Sun, Tue",TRUE,"BodyPump, Kickboxen, LesMiles",18:15:00,19:07:00,52,TRUE,Jeffrey
+555,Garner,Male,27-05-1985,39,Premium,4,"Fri, Mon, Sun, Tue",TRUE,BodyPump,19:22:00,20:59:00,97,FALSE,
+556,Audra,Female,20-04-1985,39,Standard,2,"Sat, Thu",FALSE,,10:32:00,11:50:00,78,FALSE,
+557,Hatti,Female,26-03-1987,37,Standard,1,Thu,TRUE,"LesMiles, Zumba, Pilates",10:36:00,11:30:00,54,FALSE,
+558,Theodoric,Male,26-11-1975,48,Standard,3,"Fri, Sat, Sun",FALSE,,15:32:00,16:21:00,49,TRUE,Hanna
+559,Bride,Female,08-08-1978,46,Premium,2,"Sat, Sun",FALSE,,17:54:00,19:43:00,109,FALSE,
+560,Marietta,Female,13-07-1979,45,Standard,2,"Thu, Wed",FALSE,,15:36:00,17:50:00,134,TRUE,Hanna
+561,Monique,Female,23-09-1981,43,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"BodyPump, Yoga, Kickboxen",13:20:00,14:50:00,90,FALSE,
+562,Gerladina,Female,09-10-1986,37,Standard,1,Sat,TRUE,Yoga,12:52:00,15:39:00,167,FALSE,
+563,Filippa,Female,20-06-2008,16,Premium,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,18:39:00,20:03:00,84,TRUE,Jeffrey
+564,Helaina,Female,15-03-2007,17,Standard,2,"Fri, Sun",FALSE,,16:59:00,18:57:00,118,FALSE,
+565,Thorsten,Male,19-03-1982,42,Standard,1,Sat,TRUE,"Kickboxen, Pilates, Yoga",12:52:00,13:23:00,31,FALSE,
+566,Kathy,Female,05-07-1991,33,Standard,2,"Fri, Tue",FALSE,,09:56:00,12:44:00,168,TRUE,Hanna
+567,Verile,Female,24-11-1979,44,Premium,4,"Fri, Mon, Thu, Tue",TRUE,Kickboxen,19:09:00,20:37:00,88,FALSE,
+568,Amye,Female,26-08-1989,35,Premium,5,"Mon, Sat, Thu, Tue, Wed",FALSE,,10:41:00,11:43:00,62,FALSE,
+569,Pasquale,Male,21-07-1993,31,Premium,2,"Mon, Sat",TRUE,"Yoga, LesMiles, BodyPump",20:28:00,22:53:00,145,TRUE,Hanna
+570,Dewitt,Male,16-11-1983,40,Standard,1,Sat,FALSE,,18:30:00,20:35:00,125,FALSE,
+571,Emmalynne,Female,20-04-1975,49,Premium,2,"Fri, Wed",FALSE,,10:11:00,11:21:00,70,TRUE,Hanna
+572,Sheila,Female,26-07-2008,16,Standard,5,"Mon, Sat, Sun, Thu, Tue",TRUE,Spinning,17:04:00,17:34:00,30,FALSE,
+573,Iggie,Male,19-04-1997,27,Premium,3,"Mon, Sun, Wed",FALSE,,18:16:00,19:13:00,57,FALSE,
+574,Stafani,Female,30-03-1975,49,Premium,2,"Sat, Tue",FALSE,,19:30:00,22:29:00,179,TRUE,Chantal
+575,Laurice,Female,09-03-1991,33,Premium,1,Mon,FALSE,,16:29:00,18:47:00,138,TRUE,Hanna
+576,Brade,Male,10-06-2008,16,Premium,2,"Tue, Wed",TRUE,"Running, BodyPump",12:40:00,14:33:00,113,TRUE,Chantal
+577,Yelena,Female,24-11-2002,21,Standard,2,"Fri, Mon",FALSE,,10:26:00,12:27:00,121,TRUE,Mike
+578,Lester,Male,02-04-1983,41,Premium,5,"Fri, Sun, Thu, Tue, Wed",FALSE,,20:35:00,23:32:00,177,FALSE,
+579,Nickey,Male,22-10-1988,35,Premium,2,"Sat, Sun",FALSE,,19:50:00,21:54:00,124,TRUE,Hanna
+580,Freedman,Male,29-07-2006,18,Standard,3,"Mon, Thu, Wed",TRUE,Running,16:10:00,18:43:00,153,FALSE,
+581,Albert,Male,09-09-1975,49,Premium,3,"Fri, Thu, Tue",FALSE,,15:25:00,17:54:00,149,FALSE,
+582,Avie,Female,22-08-1980,44,Premium,2,"Mon, Tue",TRUE,"BodyPump, Spinning",14:41:00,15:12:00,31,FALSE,
+583,Giacinta,Female,26-01-1994,30,Standard,1,Wed,FALSE,,16:34:00,17:28:00,54,FALSE,
+584,Dallis,Male,21-10-1995,28,Standard,3,"Fri, Sat, Tue",FALSE,,10:48:00,12:54:00,126,FALSE,
+585,Courtenay,Female,09-11-1997,26,Premium,2,"Sat, Sun",TRUE,"Kickboxen, BodyPump, Zumba",20:45:00,22:10:00,85,TRUE,Chantal
+586,Roosevelt,Male,13-11-1991,32,Standard,3,"Fri, Sat, Tue",FALSE,,08:13:00,09:23:00,70,FALSE,
+587,Cammy,Male,16-03-1998,26,Premium,5,"Fri, Mon, Sun, Tue, Wed",TRUE,"Spinning, Zumba",15:57:00,18:11:00,134,FALSE,
+588,Rochester,Male,08-12-2004,19,Premium,3,"Fri, Sun, Thu",TRUE,"BodyPump, HIT, Pilates",08:22:00,10:46:00,144,TRUE,Hanna
+589,Adham,Male,28-06-2009,15,Standard,4,"Mon, Thu, Tue, Wed",FALSE,,14:06:00,16:29:00,143,FALSE,
+590,Toby,Male,29-08-1993,31,Standard,2,"Mon, Tue",TRUE,"XCore, Running, BodyBalance",09:51:00,11:53:00,122,TRUE,Chantal
+591,Waylen,Male,22-10-1984,39,Standard,5,"Fri, Mon, Sat, Tue, Wed",TRUE,HIT,12:50:00,13:21:00,31,TRUE,Jeffrey
+592,Aurie,Female,21-11-1980,43,Standard,3,"Fri, Mon, Tue",TRUE,BodyBalance,10:17:00,12:43:00,146,TRUE,Mike
+593,Honor,Female,23-07-1998,26,Standard,5,"Mon, Sun, Thu, Tue, Wed",FALSE,,19:51:00,21:41:00,110,TRUE,Chantal
+594,Clare,Male,04-05-2009,15,Standard,1,Fri,TRUE,"BodyPump, LesMiles, XCore",08:01:00,10:51:00,170,TRUE,Hanna
+595,Orazio,Male,13-05-1991,33,Standard,2,"Sat, Tue",TRUE,"BodyPump, Yoga, XCore",17:06:00,19:10:00,124,TRUE,Hanna
+596,Darius,Male,25-07-1978,46,Premium,5,"Fri, Mon, Sat, Sun, Tue",FALSE,,20:46:00,23:18:00,152,TRUE,Hanna
+597,Holly,Male,22-12-1975,48,Premium,1,Sat,FALSE,,18:52:00,21:06:00,134,TRUE,Mike
+598,Ami,Female,05-11-2009,14,Standard,2,"Fri, Tue",TRUE,"BodyBalance, Running",09:21:00,11:54:00,153,TRUE,Mike
+599,Weber,Male,28-11-1985,38,Standard,5,"Fri, Mon, Thu, Tue, Wed",FALSE,,08:35:00,10:57:00,142,TRUE,Jeffrey
+600,Meyer,Male,17-10-1979,44,Premium,3,"Fri, Sun, Tue",FALSE,,19:40:00,21:01:00,81,TRUE,Jeffrey
+601,Germaine,Female,19-11-1984,39,Standard,2,"Tue, Wed",FALSE,,12:10:00,13:27:00,77,TRUE,Mike
+602,Germayne,Male,28-04-1975,49,Standard,2,"Tue, Wed",FALSE,,15:41:00,18:34:00,173,FALSE,
+603,Ingamar,Male,03-04-2007,17,Standard,3,"Mon, Thu, Tue",FALSE,,15:24:00,16:49:00,85,FALSE,
+604,Mirella,Female,20-02-1989,35,Standard,2,"Sun, Wed",FALSE,,18:42:00,21:30:00,168,TRUE,Jeffrey
+605,Joey,Male,18-02-1979,45,Standard,3,"Thu, Tue, Wed",TRUE,HIT,17:42:00,19:42:00,120,FALSE,
+606,Ruben,Male,23-02-1995,29,Standard,3,"Sat, Tue, Wed",TRUE,XCore,20:39:00,21:21:00,42,TRUE,Hanna
+607,Maureene,Female,29-09-1982,42,Premium,3,"Mon, Thu, Wed",FALSE,,16:20:00,17:27:00,67,TRUE,Mike
+608,Ekaterina,Female,09-05-2006,18,Standard,3,"Sat, Tue, Wed",TRUE,HIT,08:46:00,10:56:00,130,FALSE,
+609,Marrissa,Female,20-05-1988,36,Standard,3,"Mon, Sun, Thu",TRUE,BodyBalance,17:33:00,20:00:00,147,FALSE,
+610,Neda,Female,20-07-1990,34,Standard,2,"Thu, Tue",TRUE,"Yoga, Running",14:03:00,16:19:00,136,FALSE,
+611,Arly,Female,04-12-1987,36,Premium,1,Fri,TRUE,Yoga,14:49:00,15:28:00,39,TRUE,Chantal
+612,Alameda,Female,08-05-1979,45,Standard,3,"Sun, Thu, Tue",FALSE,,13:42:00,15:41:00,119,FALSE,
+613,Emlen,Male,25-07-1981,43,Standard,5,"Fri, Sat, Sun, Thu, Wed",TRUE,XCore,17:32:00,19:46:00,134,TRUE,Mike
+614,Phineas,Male,09-08-2008,16,Premium,3,"Mon, Thu, Tue",FALSE,,09:37:00,10:58:00,81,FALSE,
+615,Norbie,Male,28-06-1985,39,Premium,3,"Thu, Tue, Wed",FALSE,,18:07:00,18:50:00,43,FALSE,
+616,Dennis,Male,01-09-1987,37,Standard,2,"Sat, Tue",FALSE,,11:30:00,13:22:00,112,FALSE,
+617,Duffie,Male,17-01-2000,24,Standard,4,"Fri, Sun, Thu, Wed",FALSE,,15:28:00,17:59:00,151,TRUE,Chantal
+618,Earlie,Male,27-10-1986,37,Premium,3,"Fri, Mon, Wed",FALSE,,20:35:00,23:35:00,180,TRUE,Jeffrey
+619,Phillip,Male,20-01-1976,48,Premium,3,"Fri, Sun, Tue",FALSE,,14:29:00,17:07:00,158,TRUE,Jeffrey
+620,Geneva,Female,22-04-2000,24,Standard,2,"Mon, Thu",TRUE,"Zumba, Spinning",10:26:00,12:06:00,100,FALSE,
+621,Haley,Male,10-10-1983,40,Standard,1,Thu,FALSE,,10:52:00,11:27:00,35,FALSE,
+622,Glory,Female,24-04-1976,48,Premium,3,"Mon, Sat, Wed",TRUE,"Kickboxen, Zumba, Pilates",15:30:00,17:48:00,138,TRUE,Hanna
+623,Merralee,Female,26-03-2011,13,Premium,2,"Fri, Tue",TRUE,"Yoga, BodyPump, Spinning",08:25:00,09:36:00,71,TRUE,Jeffrey
+624,Willie,Male,30-10-1980,43,Premium,3,"Sun, Tue, Wed",FALSE,,08:39:00,10:03:00,84,FALSE,
+625,Olympie,Female,07-10-2002,21,Premium,4,"Fri, Mon, Sat, Sun",FALSE,,19:28:00,21:19:00,111,TRUE,Hanna
+626,Warren,Male,02-10-2003,21,Standard,5,"Fri, Mon, Sun, Thu, Tue",TRUE,"LesMiles, Running",16:57:00,19:06:00,129,FALSE,
+627,Tiffani,Female,19-06-1995,29,Premium,2,"Thu, Wed",TRUE,"Spinning, BodyPump",20:00:00,22:20:00,140,TRUE,Chantal
+628,Welbie,Male,07-02-1985,39,Standard,2,"Thu, Wed",FALSE,,16:53:00,19:23:00,150,TRUE,Mike
+629,Jean,Male,08-08-2007,17,Standard,3,"Fri, Sat, Wed",FALSE,,11:02:00,13:11:00,129,TRUE,Chantal
+630,Pablo,Male,25-07-2003,21,Standard,5,"Fri, Sat, Sun, Thu, Tue",FALSE,,14:29:00,16:42:00,133,TRUE,Chantal
+631,Cordy,Female,05-03-1996,28,Standard,3,"Fri, Sun, Thu",FALSE,,08:50:00,10:15:00,85,TRUE,Hanna
+632,Holmes,Male,27-03-1987,37,Premium,1,Sat,TRUE,Zumba,12:16:00,13:35:00,79,FALSE,
+633,Trula,Female,13-10-1997,26,Premium,5,"Fri, Mon, Sat, Sun, Tue",TRUE,"Running, XCore, Zumba",14:42:00,16:59:00,137,FALSE,
+634,Nina,Female,22-12-1999,24,Premium,1,Thu,FALSE,,16:51:00,17:51:00,60,TRUE,Mike
+635,Alverta,Female,03-12-2005,18,Premium,1,Fri,FALSE,,09:13:00,12:00:00,167,TRUE,Hanna
+636,Georgeanne,Female,07-01-1998,26,Standard,3,"Thu, Tue, Wed",TRUE,"XCore, Spinning, Yoga",13:24:00,15:02:00,98,TRUE,Mike
+637,Steward,Male,15-06-2001,23,Standard,1,Sat,FALSE,,10:01:00,10:35:00,34,FALSE,
+638,Timothea,Female,02-11-2005,18,Premium,2,"Fri, Mon",FALSE,,19:45:00,21:41:00,116,TRUE,Chantal
+639,Shea,Female,07-10-1999,24,Premium,4,"Mon, Sun, Tue, Wed",TRUE,"Kickboxen, BodyPump, Yoga",09:25:00,12:08:00,163,FALSE,
+640,Romola,Female,06-04-2007,17,Premium,5,"Mon, Sun, Thu, Tue, Wed",TRUE,"BodyBalance, HIT",10:00:00,12:50:00,170,FALSE,
+641,Elladine,Female,17-08-1999,25,Premium,1,Sat,FALSE,,08:37:00,11:18:00,161,TRUE,Chantal
+642,Noelle,Female,06-11-1976,47,Standard,2,"Fri, Sat",TRUE,Yoga,12:42:00,13:41:00,59,TRUE,Mike
+643,Dilan,Male,25-07-1999,25,Premium,2,"Sat, Wed",TRUE,HIT,20:31:00,22:06:00,95,TRUE,Jeffrey
+644,Catlee,Female,16-07-2010,14,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,Running,12:54:00,14:45:00,111,TRUE,Chantal
+645,Padget,Male,02-10-2010,14,Premium,3,"Fri, Sat, Sun",TRUE,"BodyBalance, Yoga",17:23:00,18:35:00,72,FALSE,
+646,Toiboid,Male,16-08-1975,49,Premium,3,"Sat, Thu, Tue",FALSE,,17:16:00,20:14:00,178,FALSE,
+647,Rodd,Male,26-07-2000,24,Standard,2,"Sat, Sun",TRUE,"Yoga, HIT, Spinning",18:58:00,21:53:00,175,FALSE,
+648,Kikelia,Female,22-09-1998,26,Standard,1,Tue,TRUE,"Kickboxen, BodyPump",12:44:00,15:27:00,163,FALSE,
+649,Noelani,Female,28-05-2002,22,Standard,5,"Fri, Mon, Sun, Tue, Wed",FALSE,,13:50:00,14:51:00,61,FALSE,
+650,Holly,Male,15-09-2012,12,Premium,3,"Sun, Thu, Wed",TRUE,"Kickboxen, Spinning",14:54:00,15:59:00,65,FALSE,
+651,Bradley,Male,13-09-2010,14,Premium,4,"Fri, Sat, Thu, Wed",FALSE,,20:36:00,21:38:00,62,FALSE,
+652,Jermayne,Male,22-08-2006,18,Premium,3,"Fri, Thu, Wed",FALSE,,11:06:00,12:50:00,104,FALSE,
+653,Bradford,Male,25-10-1997,26,Standard,3,"Sun, Tue, Wed",FALSE,,13:11:00,15:05:00,114,FALSE,
+654,Fabian,Male,01-01-1978,46,Premium,1,Sun,FALSE,,14:38:00,16:07:00,89,FALSE,
+655,Demetris,Male,22-07-1996,28,Standard,2,"Sat, Thu",FALSE,,09:20:00,11:19:00,119,TRUE,Jeffrey
+656,Barbabas,Male,24-09-2011,13,Standard,5,"Fri, Sat, Thu, Tue, Wed",TRUE,"Yoga, BodyBalance",17:13:00,17:50:00,37,FALSE,
+657,Ricoriki,Male,15-06-1984,40,Premium,2,"Thu, Wed",TRUE,"BodyPump, HIT",14:58:00,15:44:00,46,FALSE,
+658,Westleigh,Male,01-01-1999,25,Standard,4,"Fri, Sat, Sun, Tue",FALSE,,19:23:00,20:33:00,70,FALSE,
+659,Ailina,Female,15-10-2006,17,Standard,3,"Fri, Tue, Wed",FALSE,,18:02:00,20:33:00,151,FALSE,
+660,Bronson,Male,17-06-1977,47,Premium,2,"Sat, Wed",FALSE,,09:58:00,12:28:00,150,FALSE,
+661,Aaron,Male,05-12-2009,14,Standard,3,"Sat, Sun, Tue",TRUE,"XCore, Yoga",17:02:00,18:27:00,85,FALSE,
+662,Giffer,Male,07-12-1985,38,Premium,2,"Fri, Thu",TRUE,"Kickboxen, Pilates",11:41:00,13:51:00,130,TRUE,Hanna
+663,Elisa,Female,12-10-1992,31,Standard,3,"Mon, Tue, Wed",FALSE,,14:01:00,14:58:00,57,FALSE,
+664,Myrle,Female,27-03-2011,13,Standard,1,Sat,FALSE,,10:20:00,12:47:00,147,FALSE,
+665,Myrah,Female,23-11-1982,41,Standard,1,Wed,TRUE,"BodyPump, LesMiles, Kickboxen",11:45:00,14:24:00,159,TRUE,Chantal
+666,Hesther,Female,18-02-2005,19,Premium,2,"Sat, Thu",TRUE,"Pilates, Spinning",10:42:00,12:48:00,126,TRUE,Mike
+667,Lewie,Male,12-03-1976,48,Premium,2,"Sat, Sun",TRUE,"Spinning, HIT, LesMiles",11:46:00,13:27:00,101,FALSE,
+668,Nessy,Female,30-11-1988,35,Standard,3,"Mon, Sun, Thu",TRUE,"Pilates, Zumba",15:00:00,16:45:00,105,FALSE,
+669,Ashia,Female,07-04-1985,39,Standard,5,"Mon, Sat, Sun, Thu, Tue",TRUE,"HIT, BodyPump",19:04:00,22:04:00,180,FALSE,
+670,Carmencita,Female,16-01-2001,23,Premium,4,"Fri, Mon, Thu, Tue",TRUE,"Spinning, BodyPump, LesMiles",09:17:00,11:31:00,134,FALSE,
+671,Gery,Male,11-06-1985,39,Premium,3,"Fri, Tue, Wed",FALSE,,12:36:00,13:31:00,55,TRUE,Chantal
+672,Duffie,Male,08-01-1977,47,Standard,2,"Fri, Thu",TRUE,"LesMiles, Running",08:13:00,09:41:00,88,TRUE,Jeffrey
+673,Tomi,Female,17-11-2009,14,Premium,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"Yoga, Zumba",10:49:00,12:46:00,117,FALSE,
+674,Yehudit,Male,14-04-2010,14,Standard,5,"Fri, Mon, Sun, Thu, Wed",TRUE,"HIT, Pilates, BodyBalance",20:16:00,20:51:00,35,FALSE,
+675,Sidonia,Female,26-02-1983,41,Standard,1,Thu,FALSE,,11:52:00,13:52:00,120,FALSE,
+676,Bari,Female,13-06-1980,44,Standard,1,Sun,TRUE,Yoga,08:17:00,10:45:00,148,TRUE,Jeffrey
+677,Tonia,Female,16-05-2000,24,Premium,5,"Fri, Mon, Sun, Thu, Wed",TRUE,"BodyPump, Kickboxen, LesMiles",09:06:00,09:49:00,43,FALSE,
+678,Jessie,Female,21-11-1984,39,Standard,4,"Fri, Sat, Thu, Wed",FALSE,,13:57:00,16:46:00,169,TRUE,Hanna
+679,Terrill,Male,11-01-1987,37,Premium,1,Tue,TRUE,"LesMiles, BodyPump, Running",09:10:00,09:49:00,39,FALSE,
+680,Farlee,Male,20-08-1999,25,Standard,3,"Mon, Sat, Wed",TRUE,Pilates,16:33:00,17:08:00,35,TRUE,Jeffrey
+681,Aura,Female,21-11-1986,37,Premium,1,Mon,FALSE,,09:11:00,11:08:00,117,TRUE,Mike
+682,Maximilien,Male,27-10-1989,34,Premium,3,"Mon, Sun, Thu",FALSE,,10:54:00,12:18:00,84,TRUE,Hanna
+683,Kenneth,Male,05-06-1975,49,Standard,1,Mon,TRUE,"HIT, Zumba",20:23:00,23:12:00,169,FALSE,
+684,Joella,Female,25-12-2005,18,Standard,1,Fri,TRUE,Kickboxen,17:51:00,18:31:00,40,FALSE,
+685,Norbie,Male,15-08-1981,43,Standard,2,"Fri, Sun",FALSE,,18:35:00,20:40:00,125,TRUE,Chantal
+686,Nessa,Female,04-05-1994,30,Premium,3,"Sat, Thu, Tue",FALSE,,10:16:00,12:59:00,163,FALSE,
+687,Wendall,Male,23-02-1995,29,Standard,3,"Fri, Sat, Sun",TRUE,Kickboxen,09:13:00,10:58:00,105,FALSE,
+688,Lyn,Male,05-08-2011,13,Premium,3,"Mon, Sun, Tue",FALSE,,20:25:00,23:02:00,157,TRUE,Chantal
+689,Elke,Female,02-05-2011,13,Standard,5,"Fri, Sat, Sun, Thu, Wed",FALSE,,09:47:00,11:20:00,93,TRUE,Jeffrey
+690,Simmonds,Male,28-08-1979,45,Premium,3,"Fri, Thu, Tue",FALSE,,13:10:00,14:30:00,80,FALSE,
+691,Guss,Male,06-05-1996,28,Premium,3,"Mon, Sat, Thu",FALSE,,10:17:00,11:29:00,72,TRUE,Hanna
+692,Matelda,Female,30-11-2007,16,Premium,4,"Mon, Sat, Thu, Wed",TRUE,"BodyPump, BodyBalance",16:21:00,18:27:00,126,TRUE,Hanna
+693,Mignonne,Female,14-12-1987,36,Standard,4,"Mon, Thu, Tue, Wed",FALSE,,17:34:00,18:19:00,45,TRUE,Jeffrey
+694,Shirline,Female,29-01-2005,19,Standard,2,"Tue, Wed",FALSE,,16:40:00,17:36:00,56,TRUE,Mike
+695,Gabriell,Female,24-07-1997,27,Standard,1,Wed,FALSE,,12:30:00,15:10:00,160,FALSE,
+696,Janean,Female,02-08-2000,24,Standard,4,"Fri, Mon, Thu, Tue",TRUE,"BodyPump, Spinning",11:43:00,13:15:00,92,FALSE,
+697,Alejandro,Male,11-03-2002,22,Standard,5,"Sat, Sun, Thu, Tue, Wed",TRUE,BodyBalance,10:31:00,12:46:00,135,TRUE,Mike
+698,Morgan,Male,21-03-1975,49,Standard,3,"Thu, Tue, Wed",FALSE,,14:52:00,17:14:00,142,TRUE,Chantal
+699,Peadar,Male,06-05-2009,15,Premium,3,"Mon, Sat, Thu",TRUE,Yoga,18:06:00,19:51:00,105,TRUE,Jeffrey
+700,Alana,Female,13-12-1988,35,Premium,3,"Sat, Thu, Tue",FALSE,,16:35:00,17:37:00,62,FALSE,
+701,Julia,Female,14-10-2000,23,Standard,5,"Mon, Sat, Sun, Thu, Tue",TRUE,"Yoga, Zumba",11:19:00,13:52:00,153,FALSE,
+702,Rudiger,Male,05-09-1983,41,Standard,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,10:22:00,11:16:00,54,FALSE,
+703,Travers,Male,18-06-1988,36,Premium,3,"Mon, Thu, Tue",TRUE,"Pilates, HIT, Yoga",16:01:00,17:57:00,116,TRUE,Mike
+704,Hal,Male,16-02-1989,35,Premium,2,"Sun, Tue",TRUE,"XCore, Pilates, Kickboxen",20:14:00,21:00:00,46,TRUE,Jeffrey
+705,Edvard,Male,30-11-1991,32,Standard,3,"Fri, Sun, Thu",TRUE,"HIT, Yoga, Kickboxen",17:29:00,19:11:00,102,FALSE,
+706,Hayley,Female,13-06-1985,39,Standard,3,"Sat, Thu, Tue",FALSE,,11:05:00,13:47:00,162,TRUE,Hanna
+707,Grove,Male,16-06-1996,28,Premium,5,"Fri, Mon, Sat, Tue, Wed",TRUE,"XCore, LesMiles, Running",13:31:00,15:01:00,90,TRUE,Chantal
+708,Chic,Male,12-06-2001,23,Premium,2,"Sat, Sun",TRUE,Pilates,18:01:00,20:53:00,172,TRUE,Hanna
+709,Rudolfo,Male,25-11-1983,40,Standard,3,"Mon, Sun, Tue",TRUE,"HIT, XCore, LesMiles",17:58:00,20:07:00,129,FALSE,
+710,Kayley,Female,19-08-2005,19,Premium,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"BodyBalance, Kickboxen, XCore",10:54:00,12:03:00,69,TRUE,Mike
+711,Nelli,Female,20-03-1983,41,Standard,2,"Sun, Tue",TRUE,Zumba,09:57:00,11:49:00,112,FALSE,
+712,Paul,Male,08-12-1999,24,Standard,4,"Fri, Mon, Thu, Tue",TRUE,"XCore, Kickboxen, BodyBalance",13:12:00,15:06:00,114,TRUE,Hanna
+713,Walt,Male,06-11-1986,37,Standard,3,"Fri, Mon, Wed",TRUE,BodyPump,10:37:00,11:40:00,63,TRUE,Chantal
+714,Nananne,Female,19-08-1981,43,Standard,1,Fri,TRUE,"Kickboxen, Pilates",10:50:00,11:54:00,64,FALSE,
+715,Brant,Male,06-06-1981,43,Premium,3,"Mon, Thu, Tue",FALSE,,12:02:00,12:53:00,51,TRUE,Mike
+716,Emiline,Female,02-08-1995,29,Standard,4,"Fri, Sat, Sun, Tue",TRUE,Spinning,18:15:00,19:38:00,83,TRUE,Mike
+717,Ive,Male,07-02-1980,44,Premium,4,"Mon, Sun, Thu, Wed",FALSE,,11:10:00,12:53:00,103,FALSE,
+718,Jethro,Male,28-11-1996,27,Standard,2,"Tue, Wed",TRUE,"XCore, BodyPump, LesMiles",20:32:00,21:19:00,47,FALSE,
+719,Pren,Male,20-01-1990,34,Standard,5,"Fri, Mon, Sat, Sun, Tue",FALSE,,08:33:00,11:22:00,169,FALSE,
+720,Lloyd,Male,17-02-2006,18,Standard,4,"Fri, Sat, Sun, Thu",TRUE,Yoga,19:42:00,21:49:00,127,FALSE,
+721,Haskel,Male,29-07-1994,30,Premium,2,"Fri, Sun",FALSE,,08:38:00,09:11:00,33,TRUE,Chantal
+722,Paten,Male,12-06-2005,19,Standard,1,Sat,FALSE,,11:29:00,13:38:00,129,TRUE,Jeffrey
+723,Otho,Male,03-09-1997,27,Premium,1,Mon,TRUE,"BodyPump, Yoga",18:22:00,20:08:00,106,FALSE,
+724,Riccardo,Male,15-07-1977,47,Premium,2,"Sat, Sun",TRUE,HIT,19:06:00,21:35:00,149,TRUE,Chantal
+725,Querida,Female,12-10-1982,41,Premium,2,"Sat, Sun",FALSE,,19:18:00,20:05:00,47,TRUE,Hanna
+726,Sebastien,Male,17-06-1990,34,Premium,3,"Sat, Sun, Thu",FALSE,,10:54:00,12:53:00,119,FALSE,
+727,Zeb,Male,06-06-1985,39,Premium,4,"Fri, Sun, Thu, Tue",TRUE,"Running, BodyPump",11:51:00,14:17:00,146,FALSE,
+728,Raina,Female,17-03-2001,23,Premium,5,"Fri, Mon, Sun, Thu, Wed",TRUE,"Zumba, Spinning, BodyBalance",20:57:00,23:29:00,152,FALSE,
+729,Sasha,Male,01-11-1983,40,Standard,3,"Fri, Sun, Tue",FALSE,,19:38:00,22:38:00,180,TRUE,Chantal
+730,Courtnay,Male,10-07-1985,39,Premium,5,"Fri, Sat, Sun, Tue, Wed",FALSE,,15:28:00,18:19:00,171,TRUE,Chantal
+731,Caitrin,Female,24-05-2008,16,Premium,2,"Sat, Sun",TRUE,"XCore, Spinning",09:10:00,11:57:00,167,TRUE,Hanna
+732,Melva,Female,20-06-1991,33,Premium,4,"Fri, Mon, Tue, Wed",FALSE,,13:30:00,14:58:00,88,TRUE,Hanna
+733,Cirilo,Male,24-01-1977,47,Standard,1,Sun,TRUE,BodyPump,18:15:00,18:54:00,39,FALSE,
+734,Konrad,Male,08-12-1999,24,Premium,3,"Mon, Sat, Wed",FALSE,,09:13:00,09:54:00,41,FALSE,
+735,Georgeta,Female,05-02-1991,33,Standard,2,"Mon, Tue",TRUE,"HIT, Running",09:24:00,11:18:00,114,TRUE,Jeffrey
+736,Whitaker,Male,16-12-1982,41,Premium,2,"Mon, Wed",TRUE,"Zumba, HIT, Kickboxen",20:54:00,22:22:00,88,TRUE,Chantal
+737,Feodor,Male,16-03-1988,36,Premium,1,Tue,FALSE,,08:43:00,10:53:00,130,FALSE,
+738,Dorian,Female,28-09-1976,48,Standard,5,"Fri, Mon, Sat, Thu, Wed",TRUE,Yoga,11:21:00,11:59:00,38,TRUE,Jeffrey
+739,Carmelia,Female,09-11-2003,20,Premium,3,"Mon, Sun, Thu",FALSE,,15:28:00,16:22:00,54,FALSE,
+740,Kellsie,Female,25-06-2005,19,Premium,4,"Sat, Sun, Thu, Tue",FALSE,,11:16:00,14:15:00,179,FALSE,
+741,Igor,Male,06-04-2009,15,Standard,2,"Sun, Thu",TRUE,Pilates,20:07:00,21:56:00,109,FALSE,
+742,Ambrosio,Male,27-08-1997,27,Standard,1,Sun,FALSE,,18:02:00,19:13:00,71,FALSE,
+743,Bartie,Male,08-12-1992,31,Standard,2,"Sun, Wed",TRUE,LesMiles,20:28:00,21:04:00,36,TRUE,Mike
+744,Prince,Male,02-10-2004,20,Premium,3,"Fri, Tue, Wed",TRUE,"Yoga, Pilates",10:42:00,13:30:00,168,TRUE,Mike
+745,Lonna,Female,01-05-2011,13,Standard,3,"Mon, Sun, Tue",TRUE,BodyBalance,13:37:00,14:38:00,61,FALSE,
+746,Dallon,Male,01-08-2007,17,Premium,2,"Sun, Wed",TRUE,Pilates,10:09:00,11:35:00,86,FALSE,
+747,Loydie,Male,25-10-1980,43,Standard,2,"Fri, Tue",FALSE,,13:10:00,13:42:00,32,TRUE,Mike
+748,Harland,Male,01-09-1981,43,Premium,1,Mon,FALSE,,19:43:00,21:36:00,113,TRUE,Mike
+749,Yolande,Female,21-07-2012,12,Premium,2,"Mon, Sat",TRUE,"HIT, BodyPump",10:42:00,12:58:00,136,FALSE,
+750,Agnese,Female,26-04-1975,49,Standard,5,"Sat, Sun, Thu, Tue, Wed",TRUE,"BodyBalance, Yoga",10:28:00,13:20:00,172,FALSE,
+751,Nana,Female,02-07-1991,33,Standard,3,"Mon, Sat, Sun",TRUE,"Spinning, BodyPump, Zumba",13:11:00,13:43:00,32,FALSE,
+752,Daile,Female,05-08-1994,30,Standard,3,"Sat, Sun, Thu",FALSE,,08:05:00,10:32:00,147,TRUE,Jeffrey
+753,Jacquette,Female,30-10-1995,28,Premium,3,"Fri, Sat, Tue",FALSE,,10:11:00,12:42:00,151,FALSE,
+754,Vida,Female,09-12-1990,33,Standard,3,"Fri, Thu, Tue",FALSE,,15:13:00,15:58:00,45,TRUE,Chantal
+755,Mommy,Female,08-05-2008,16,Standard,3,"Mon, Thu, Wed",FALSE,,18:39:00,20:33:00,114,FALSE,
+756,Orv,Male,09-05-1983,41,Premium,1,Tue,TRUE,"BodyBalance, Pilates",19:23:00,21:42:00,139,FALSE,
+757,Nikolaus,Male,30-12-2003,20,Premium,1,Wed,FALSE,,11:23:00,12:22:00,59,FALSE,
+758,Gabbi,Female,05-11-1997,26,Standard,5,"Fri, Mon, Sat, Thu, Wed",FALSE,,15:16:00,18:06:00,170,TRUE,Jeffrey
+759,Ricki,Male,10-08-2005,19,Standard,3,"Mon, Sun, Tue",TRUE,"Kickboxen, XCore, Pilates",13:19:00,14:40:00,81,FALSE,
+760,Simmonds,Male,15-05-1981,43,Premium,5,"Fri, Sat, Sun, Tue, Wed",TRUE,"XCore, BodyBalance",09:29:00,11:01:00,92,TRUE,Chantal
+761,Leonerd,Male,20-08-1983,41,Standard,1,Mon,TRUE,"Yoga, Pilates",13:41:00,14:42:00,61,TRUE,Mike
+762,Ardis,Female,23-12-2001,22,Standard,2,"Sat, Thu",TRUE,"LesMiles, BodyPump",12:13:00,13:54:00,101,FALSE,
+763,Gabbie,Female,22-11-1978,45,Premium,3,"Mon, Sat, Thu",TRUE,"LesMiles, Pilates, Spinning",15:39:00,16:28:00,49,TRUE,Mike
+764,Lars,Male,22-10-2009,14,Premium,5,"Fri, Mon, Sun, Thu, Wed",TRUE,"XCore, Kickboxen, Yoga",08:10:00,09:35:00,85,FALSE,
+765,Godfree,Male,09-11-1997,26,Standard,1,Wed,FALSE,,14:21:00,15:06:00,45,FALSE,
+766,Kally,Female,17-03-1978,46,Premium,1,Mon,TRUE,"Kickboxen, Zumba, XCore",14:44:00,17:00:00,136,TRUE,Chantal
+767,Lin,Male,13-07-1989,35,Premium,5,"Mon, Sat, Sun, Tue, Wed",FALSE,,13:07:00,15:27:00,140,TRUE,Chantal
+768,Benjy,Male,03-12-2005,18,Standard,2,"Mon, Tue",FALSE,,14:16:00,14:55:00,39,TRUE,Jeffrey
+769,Glynda,Female,31-07-1995,29,Standard,4,"Mon, Sat, Thu, Tue",TRUE,HIT,13:25:00,15:14:00,109,FALSE,
+770,Marcelo,Male,01-09-1997,27,Premium,2,"Mon, Sat",FALSE,,17:22:00,18:22:00,60,TRUE,Chantal
+771,Dominique,Female,27-06-1988,36,Premium,1,Sun,FALSE,,20:00:00,21:31:00,91,TRUE,Mike
+772,Robbi,Female,30-01-1995,29,Standard,2,"Thu, Wed",FALSE,,20:52:00,22:32:00,100,TRUE,Chantal
+773,Willis,Male,26-06-1988,36,Standard,3,"Fri, Mon, Thu",TRUE,"Spinning, XCore",18:25:00,20:27:00,122,TRUE,Chantal
+774,Dario,Male,18-04-1988,36,Premium,4,"Fri, Sat, Tue, Wed",FALSE,,12:32:00,13:03:00,31,FALSE,
+775,Odella,Female,09-03-2012,12,Premium,5,"Fri, Sat, Sun, Thu, Wed",TRUE,LesMiles,09:35:00,10:48:00,73,FALSE,
+776,Shannan,Male,20-07-1990,34,Premium,2,"Sat, Wed",FALSE,,18:44:00,19:32:00,48,FALSE,
+777,Harriette,Female,18-04-1980,44,Premium,2,"Fri, Mon",FALSE,,14:58:00,16:14:00,76,TRUE,Hanna
+778,Zacharias,Male,27-05-1978,46,Premium,3,"Fri, Thu, Tue",TRUE,"Pilates, Kickboxen, Zumba",20:17:00,21:15:00,58,FALSE,
+779,Lorenza,Female,14-09-1987,37,Standard,1,Sat,TRUE,"HIT, Running",08:37:00,10:26:00,109,TRUE,Mike
+780,Dulsea,Female,21-01-2000,24,Premium,3,"Mon, Thu, Tue",FALSE,,13:20:00,15:46:00,146,FALSE,
+781,Martyn,Male,28-02-1978,46,Premium,4,"Fri, Thu, Tue, Wed",TRUE,"Pilates, BodyPump",16:32:00,18:27:00,115,TRUE,Hanna
+782,Elvera,Female,12-01-2004,20,Premium,2,"Fri, Wed",FALSE,,14:03:00,16:21:00,138,TRUE,Hanna
+783,Dion,Male,16-12-1991,32,Standard,3,"Sat, Sun, Tue",TRUE,XCore,12:16:00,13:37:00,81,TRUE,Mike
+784,Anallise,Female,22-11-1997,26,Standard,3,"Sat, Tue, Wed",FALSE,,09:38:00,12:18:00,160,TRUE,Hanna
+785,Evey,Female,16-10-1985,38,Standard,1,Sat,TRUE,BodyPump,18:29:00,19:00:00,31,FALSE,
+786,Margareta,Female,19-09-1979,45,Premium,4,"Fri, Mon, Sun, Wed",FALSE,,19:32:00,21:32:00,120,FALSE,
+787,Codi,Female,17-11-2003,20,Standard,1,Wed,FALSE,,11:35:00,13:53:00,138,FALSE,
+788,Kane,Male,13-04-1976,48,Standard,3,"Fri, Sun, Wed",FALSE,,19:44:00,22:18:00,154,FALSE,
+789,Starlin,Female,16-11-1982,41,Premium,4,"Mon, Sat, Sun, Wed",FALSE,,17:08:00,17:39:00,31,TRUE,Jeffrey
+790,Derron,Male,27-12-1999,24,Standard,2,"Fri, Thu",FALSE,,13:22:00,14:21:00,59,TRUE,Jeffrey
+791,Fred,Female,26-06-1977,47,Standard,3,"Sun, Thu, Wed",FALSE,,16:49:00,18:12:00,83,FALSE,
+792,Celestina,Female,14-05-1982,42,Premium,3,"Sat, Sun, Wed",TRUE,"HIT, Spinning, XCore",11:44:00,13:18:00,94,TRUE,Chantal
+793,Berk,Male,16-10-1990,33,Standard,1,Tue,TRUE,Running,16:06:00,18:49:00,163,FALSE,
+794,Vallie,Female,19-04-2000,24,Standard,4,"Fri, Mon, Sun, Tue",FALSE,,17:17:00,18:20:00,63,FALSE,
+795,Jeremie,Male,18-02-1995,29,Standard,1,Thu,TRUE,LesMiles,12:59:00,14:55:00,116,TRUE,Mike
+796,Marylinda,Female,06-10-1994,29,Standard,4,"Sun, Thu, Tue, Wed",TRUE,"HIT, XCore, BodyBalance",09:21:00,11:38:00,137,TRUE,Jeffrey
+797,Alley,Male,21-01-1978,46,Standard,5,"Fri, Mon, Sat, Tue, Wed",TRUE,Spinning,09:41:00,10:23:00,42,TRUE,Chantal
+798,Donall,Male,02-03-1988,36,Standard,1,Fri,TRUE,"BodyBalance, Kickboxen, Pilates",20:44:00,21:28:00,44,TRUE,Chantal
+799,Helen-elizabeth,Female,12-08-1995,29,Standard,4,"Mon, Sat, Sun, Wed",TRUE,"Running, XCore",09:11:00,11:26:00,135,FALSE,
+800,Roxy,Female,27-08-1990,34,Premium,3,"Thu, Tue, Wed",FALSE,,09:21:00,11:13:00,112,FALSE,
+801,Bonita,Female,23-07-1977,47,Standard,2,"Thu, Tue",TRUE,"LesMiles, HIT",19:19:00,21:44:00,145,FALSE,
+802,Kristan,Female,10-11-1997,26,Premium,2,"Fri, Mon",TRUE,"Spinning, Pilates",08:00:00,10:24:00,144,TRUE,Hanna
+803,Cecily,Female,06-07-1983,41,Standard,3,"Fri, Sun, Tue",FALSE,,09:26:00,11:23:00,117,FALSE,
+804,Ben,Male,20-05-2006,18,Premium,4,"Mon, Sun, Thu, Tue",FALSE,,08:59:00,09:56:00,57,TRUE,Mike
+805,Salaidh,Female,04-06-1976,48,Premium,2,"Sun, Thu",TRUE,"BodyPump, XCore",08:15:00,09:48:00,93,TRUE,Jeffrey
+806,Beatriz,Female,20-07-1999,25,Premium,5,"Fri, Mon, Sun, Thu, Wed",FALSE,,16:13:00,18:08:00,115,FALSE,
+807,Ardelis,Female,10-04-1984,40,Premium,4,"Fri, Mon, Sat, Wed",TRUE,"Yoga, Pilates",19:35:00,22:10:00,155,FALSE,
+808,Sosanna,Female,05-05-1997,27,Premium,4,"Mon, Sat, Sun, Wed",FALSE,,16:32:00,18:29:00,117,TRUE,Hanna
+809,Rana,Female,20-11-1989,34,Premium,2,"Mon, Sat",FALSE,,13:25:00,15:29:00,124,FALSE,
+810,Neils,Male,24-09-1994,30,Premium,2,"Sun, Tue",TRUE,BodyBalance,14:19:00,17:05:00,166,TRUE,Chantal
+811,Chaddy,Male,19-03-1994,30,Premium,2,"Mon, Tue",FALSE,,11:18:00,13:30:00,132,TRUE,Jeffrey
+812,Kelly,Male,15-06-2005,19,Premium,1,Sun,TRUE,"LesMiles, BodyPump",14:30:00,15:58:00,88,TRUE,Hanna
+813,Johnathan,Male,22-06-1975,49,Standard,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,14:07:00,14:53:00,46,FALSE,
+814,Naoma,Female,13-12-1996,27,Standard,1,Wed,TRUE,Spinning,15:34:00,16:24:00,50,TRUE,Chantal
+815,Ranee,Female,06-08-1986,38,Premium,1,Sun,FALSE,,14:12:00,15:34:00,82,FALSE,
+816,Benoit,Male,28-05-1977,47,Standard,2,"Sun, Wed",FALSE,,12:18:00,14:36:00,138,TRUE,Mike
+817,Ailee,Female,31-08-1985,39,Standard,3,"Mon, Sun, Wed",FALSE,,17:06:00,19:13:00,127,TRUE,Jeffrey
+818,Gavin,Male,16-12-2006,17,Standard,3,"Fri, Sun, Tue",TRUE,"Pilates, Yoga",11:51:00,13:38:00,107,FALSE,
+819,Vi,Female,14-11-2003,20,Standard,3,"Fri, Sun, Wed",FALSE,,08:23:00,09:45:00,82,FALSE,
+820,Kial,Female,13-07-2009,15,Standard,3,"Fri, Sat, Wed",FALSE,,14:33:00,17:03:00,150,FALSE,
+821,Romona,Female,18-08-1986,38,Premium,3,"Fri, Mon, Sun",TRUE,XCore,13:20:00,15:41:00,141,FALSE,
+822,Mischa,Male,11-10-1975,48,Premium,3,"Fri, Mon, Wed",FALSE,,19:44:00,21:54:00,130,TRUE,Chantal
+823,Viola,Female,19-10-1995,28,Standard,4,"Fri, Mon, Sun, Wed",FALSE,,16:33:00,18:24:00,111,FALSE,
+824,Junie,Female,21-07-1986,38,Standard,5,"Fri, Mon, Sat, Sun, Tue",FALSE,,17:59:00,20:09:00,130,FALSE,
+825,Baily,Male,30-07-1975,49,Premium,3,"Fri, Sun, Wed",TRUE,"Zumba, HIT",10:53:00,12:49:00,116,TRUE,Mike
+826,Lizette,Female,26-02-1992,32,Standard,1,Wed,FALSE,,17:58:00,20:54:00,176,FALSE,
+827,Whit,Male,28-02-2006,18,Standard,3,"Fri, Sun, Thu",TRUE,"Running, BodyPump, Spinning",14:33:00,16:04:00,91,FALSE,
+828,Margarita,Female,31-03-2006,18,Premium,2,"Fri, Wed",TRUE,"Yoga, Zumba, Spinning",15:53:00,16:53:00,60,TRUE,Hanna
+829,Fields,Male,21-06-1984,40,Premium,2,"Mon, Tue",TRUE,"Kickboxen, Zumba",09:40:00,10:14:00,34,TRUE,Hanna
+830,Micky,Male,30-03-1982,42,Premium,5,"Fri, Mon, Sun, Thu, Tue",TRUE,"LesMiles, Zumba, HIT",12:05:00,14:36:00,151,TRUE,Mike
+831,Wheeler,Male,27-09-1996,28,Standard,4,"Fri, Mon, Tue, Wed",FALSE,,09:35:00,11:59:00,144,TRUE,Mike
+832,Caralie,Female,27-07-2008,16,Premium,1,Tue,FALSE,,08:41:00,10:55:00,134,FALSE,
+833,Susana,Female,22-11-1999,24,Standard,2,"Sun, Tue",TRUE,"BodyBalance, Kickboxen",17:44:00,19:20:00,96,TRUE,Hanna
+834,Avram,Male,28-03-2010,14,Standard,3,"Sat, Sun, Thu",FALSE,,19:16:00,20:30:00,74,TRUE,Hanna
+835,Mair,Female,08-11-2003,20,Premium,3,"Fri, Mon, Sun",FALSE,,15:37:00,16:54:00,77,TRUE,Hanna
+836,Marieann,Female,20-09-1983,41,Standard,1,Tue,TRUE,"HIT, Zumba, XCore",09:46:00,11:52:00,126,TRUE,Chantal
+837,Gal,Male,24-12-2000,23,Premium,2,"Fri, Sat",FALSE,,19:11:00,21:17:00,126,TRUE,Chantal
+838,Montague,Male,29-07-1975,49,Standard,3,"Fri, Thu, Tue",TRUE,"Zumba, Spinning",20:40:00,23:05:00,145,TRUE,Mike
+839,Ynes,Female,24-12-1978,45,Standard,2,"Mon, Sat",FALSE,,08:54:00,09:40:00,46,TRUE,Hanna
+840,Darell,Female,12-11-1975,48,Standard,2,"Sat, Tue",FALSE,,20:26:00,22:29:00,123,TRUE,Hanna
+841,Marthena,Female,16-09-1995,29,Standard,3,"Fri, Mon, Sun",FALSE,,11:00:00,13:06:00,126,FALSE,
+842,Gale,Female,29-04-1993,31,Standard,5,"Fri, Mon, Sat, Sun, Thu",TRUE,Pilates,09:47:00,11:42:00,115,TRUE,Chantal
+843,Donnie,Female,12-03-1995,29,Premium,1,Thu,TRUE,BodyBalance,19:10:00,19:50:00,40,TRUE,Mike
+844,Ogdan,Male,11-10-1981,42,Premium,3,"Mon, Sat, Thu",TRUE,Kickboxen,13:40:00,14:28:00,48,TRUE,Mike
+845,Curran,Male,05-01-1995,29,Standard,2,"Sun, Tue",FALSE,,17:09:00,18:30:00,81,TRUE,Hanna
+846,Colby,Male,14-01-1979,45,Standard,2,"Sat, Sun",TRUE,"HIT, Running",15:59:00,17:52:00,113,TRUE,Hanna
+847,Carolus,Male,10-11-1994,29,Standard,1,Wed,FALSE,,20:43:00,23:01:00,138,TRUE,Mike
+848,Pietro,Male,20-06-2000,24,Standard,3,"Fri, Sun, Tue",TRUE,Spinning,12:00:00,12:55:00,55,FALSE,
+849,Carol,Female,18-04-1985,39,Premium,3,"Fri, Sun, Tue",TRUE,"Pilates, XCore, Spinning",16:37:00,19:33:00,176,TRUE,Jeffrey
+850,Reinhold,Male,21-03-1991,33,Standard,2,"Thu, Wed",TRUE,"LesMiles, Running, BodyBalance",14:56:00,16:26:00,90,TRUE,Mike
+851,Serene,Female,23-08-2007,17,Standard,2,"Sun, Tue",FALSE,,08:06:00,09:44:00,98,FALSE,
+852,Laraine,Female,17-08-1989,35,Standard,4,"Fri, Thu, Tue, Wed",FALSE,,15:43:00,17:32:00,109,TRUE,Hanna
+853,Westbrooke,Male,13-07-1985,39,Premium,3,"Sun, Tue, Wed",TRUE,"HIT, BodyPump, XCore",12:16:00,14:42:00,146,FALSE,
+854,Odelia,Female,29-10-1998,25,Premium,2,"Fri, Sun",FALSE,,20:20:00,23:16:00,176,FALSE,
+855,Gordie,Male,21-03-2010,14,Premium,1,Fri,FALSE,,12:10:00,13:12:00,62,FALSE,
+856,Ester,Female,05-09-1984,40,Standard,3,"Fri, Sat, Sun",TRUE,HIT,17:05:00,17:37:00,32,TRUE,Mike
+857,Danyette,Female,06-04-1999,25,Premium,1,Mon,FALSE,,15:55:00,16:52:00,57,FALSE,
+858,Florinda,Female,30-01-1988,36,Premium,2,"Mon, Tue",TRUE,"HIT, Zumba, Yoga",10:20:00,12:56:00,156,TRUE,Jeffrey
+859,Mikey,Male,01-01-1999,25,Premium,3,"Mon, Sun, Tue",TRUE,HIT,14:45:00,16:44:00,119,FALSE,
+860,Marcelle,Female,16-12-1999,24,Premium,2,"Thu, Tue",TRUE,"HIT, Yoga, BodyPump",18:33:00,21:25:00,172,FALSE,
+861,Tasia,Female,08-04-1989,35,Premium,2,"Sat, Thu",TRUE,"BodyPump, Yoga",14:22:00,16:02:00,100,FALSE,
+862,Zackariah,Male,02-01-1993,31,Standard,4,"Fri, Mon, Tue, Wed",TRUE,"LesMiles, Kickboxen",17:19:00,18:20:00,61,TRUE,Mike
+863,Wash,Male,03-09-1992,32,Premium,5,"Fri, Mon, Sun, Tue, Wed",FALSE,,11:08:00,12:57:00,109,FALSE,
+864,Malchy,Male,24-09-1976,48,Premium,3,"Fri, Mon, Tue",TRUE,BodyBalance,16:01:00,16:50:00,49,TRUE,Hanna
+865,Erhard,Male,18-03-1979,45,Standard,4,"Mon, Sat, Thu, Tue",FALSE,,11:19:00,13:02:00,103,TRUE,Hanna
+866,Evangelia,Female,10-07-2002,22,Premium,3,"Mon, Sun, Tue",TRUE,Zumba,11:46:00,13:45:00,119,TRUE,Chantal
+867,Anderea,Female,08-12-1984,39,Standard,5,"Fri, Mon, Sat, Thu, Tue",TRUE,"LesMiles, Running",16:05:00,16:59:00,54,TRUE,Mike
+868,Merlina,Female,03-02-1979,45,Standard,2,"Sat, Sun",TRUE,"BodyBalance, Spinning, BodyPump",18:26:00,19:45:00,79,TRUE,Mike
+869,Saba,Female,29-04-2007,17,Standard,2,"Sun, Tue",TRUE,LesMiles,12:09:00,14:26:00,137,TRUE,Mike
+870,Chic,Male,13-10-1989,34,Standard,2,"Fri, Wed",TRUE,"HIT, XCore",12:59:00,13:31:00,32,FALSE,
+871,Annora,Female,09-07-1991,33,Premium,5,"Mon, Sun, Thu, Tue, Wed",TRUE,XCore,12:21:00,14:43:00,142,FALSE,
+872,Brennen,Male,23-07-2010,14,Standard,2,"Thu, Wed",FALSE,,09:46:00,11:32:00,106,FALSE,
+873,Harwilll,Male,26-05-1984,40,Standard,1,Sat,FALSE,,20:27:00,22:32:00,125,FALSE,
+874,Wini,Female,21-08-2001,23,Premium,2,"Sun, Thu",TRUE,"BodyBalance, LesMiles, Zumba",14:42:00,16:04:00,82,TRUE,Jeffrey
+875,Lester,Male,16-01-2010,14,Premium,2,"Sun, Thu",TRUE,"BodyPump, HIT",13:45:00,14:41:00,56,FALSE,
+876,Ramona,Female,17-01-2012,12,Standard,5,"Fri, Mon, Sat, Sun, Thu",TRUE,"Running, XCore, LesMiles",18:32:00,20:19:00,107,FALSE,
+877,Hobart,Male,07-05-2009,15,Standard,2,"Fri, Thu",FALSE,,09:12:00,10:54:00,102,TRUE,Hanna
+878,Elisa,Female,09-06-2004,20,Premium,3,"Fri, Sun, Thu",FALSE,,14:04:00,15:30:00,86,FALSE,
+879,Lil,Female,22-12-2002,21,Premium,3,"Fri, Mon, Sat",FALSE,,10:39:00,11:32:00,53,TRUE,Chantal
+880,Ketti,Female,05-02-1995,29,Premium,2,"Fri, Sun",FALSE,,11:02:00,13:47:00,165,TRUE,Chantal
+881,Alexei,Male,22-09-2000,24,Standard,3,"Fri, Mon, Sat",FALSE,,10:46:00,12:00:00,74,TRUE,Jeffrey
+882,Johnna,Female,14-04-1995,29,Standard,2,"Mon, Thu",FALSE,,15:39:00,18:08:00,149,TRUE,Hanna
+883,Fan,Female,04-10-2010,13,Premium,3,"Sat, Thu, Tue",TRUE,"Spinning, XCore",15:31:00,17:52:00,141,FALSE,
+884,Wayland,Male,21-06-1975,49,Standard,1,Mon,TRUE,"HIT, LesMiles, XCore",16:18:00,17:50:00,92,FALSE,
+885,Biddy,Female,04-08-1987,37,Standard,3,"Fri, Thu, Wed",FALSE,,14:33:00,16:10:00,97,FALSE,
+886,Cathryn,Female,20-03-2005,19,Standard,4,"Sat, Sun, Tue, Wed",TRUE,"HIT, Running, Pilates",15:47:00,18:15:00,148,FALSE,
+887,Cord,Male,24-10-2000,23,Premium,2,"Sat, Tue",FALSE,,19:04:00,19:56:00,52,FALSE,
+888,Tiffi,Female,19-07-1990,34,Premium,2,"Mon, Tue",FALSE,,17:02:00,18:02:00,60,TRUE,Mike
+889,Wilt,Male,23-02-2006,18,Premium,3,"Fri, Sun, Tue",TRUE,"Spinning, Zumba, BodyPump",11:41:00,13:50:00,129,FALSE,
+890,Gonzales,Male,28-08-1997,27,Premium,3,"Sat, Thu, Tue",FALSE,,20:18:00,21:06:00,48,TRUE,Hanna
+891,Hamilton,Male,19-09-1977,47,Premium,5,"Mon, Sat, Sun, Thu, Tue",FALSE,,11:26:00,14:16:00,170,FALSE,
+892,Renard,Male,25-11-1993,30,Standard,2,"Fri, Sun",FALSE,,12:22:00,13:02:00,40,TRUE,Mike
+893,Borden,Male,13-09-1984,40,Premium,2,"Mon, Sat",TRUE,"Pilates, Kickboxen",20:33:00,21:04:00,31,TRUE,Jeffrey
+894,Eileen,Female,21-03-2004,20,Standard,1,Fri,TRUE,XCore,15:06:00,16:11:00,65,FALSE,
+895,Robinet,Male,14-06-1988,36,Premium,3,"Sat, Tue, Wed",FALSE,,16:53:00,19:53:00,180,TRUE,Hanna
+896,Franni,Female,08-05-1979,45,Premium,4,"Mon, Sat, Sun, Wed",FALSE,,10:05:00,12:47:00,162,TRUE,Hanna
+897,Andra,Female,06-11-1987,36,Premium,3,"Fri, Tue, Wed",TRUE,Pilates,09:39:00,10:11:00,32,FALSE,
+898,Brandise,Female,27-10-1987,36,Premium,1,Thu,FALSE,,11:05:00,12:52:00,107,FALSE,
+899,Jeremie,Male,27-03-2008,16,Standard,1,Sun,TRUE,"XCore, BodyBalance",12:59:00,13:59:00,60,FALSE,
+900,Gretel,Female,08-07-2000,24,Standard,3,"Fri, Mon, Thu",FALSE,,19:13:00,21:33:00,140,TRUE,Mike
+901,Avivah,Female,27-05-1988,36,Premium,1,Mon,FALSE,,17:30:00,19:27:00,117,FALSE,
+902,Nadia,Female,14-01-1984,40,Standard,1,Thu,TRUE,BodyPump,16:03:00,17:10:00,67,FALSE,
+903,Florry,Female,14-03-1984,40,Premium,2,"Sun, Wed",TRUE,XCore,19:07:00,19:48:00,41,TRUE,Jeffrey
+904,Freddi,Female,10-01-2010,14,Premium,2,"Mon, Sun",FALSE,,10:09:00,11:22:00,73,TRUE,Chantal
+905,Marika,Female,29-08-1991,33,Premium,1,Wed,FALSE,,14:09:00,16:47:00,158,FALSE,
+906,Thorsten,Male,22-09-1981,43,Standard,1,Sat,FALSE,,09:22:00,12:01:00,159,TRUE,Mike
+907,Stanislaus,Male,28-07-1976,48,Standard,2,"Mon, Tue",TRUE,"Zumba, XCore",15:12:00,17:43:00,151,FALSE,
+908,Grazia,Female,22-03-2012,12,Standard,5,"Fri, Sat, Thu, Tue, Wed",FALSE,,10:25:00,12:49:00,144,FALSE,
+909,Randy,Male,23-01-1985,39,Premium,4,"Fri, Sun, Tue, Wed",TRUE,"BodyBalance, LesMiles",13:35:00,15:53:00,138,TRUE,Chantal
+910,Urban,Male,05-09-1994,30,Premium,3,"Fri, Sat, Thu",TRUE,"Pilates, Spinning, Yoga",11:09:00,11:47:00,38,FALSE,
+911,Fifine,Female,07-06-2000,24,Standard,3,"Mon, Sun, Wed",TRUE,"XCore, BodyPump, BodyBalance",20:53:00,23:46:00,173,FALSE,
+912,Avivah,Female,19-08-1977,47,Standard,1,Tue,FALSE,,19:32:00,21:51:00,139,FALSE,
+913,Garv,Male,26-11-1989,34,Standard,1,Wed,TRUE,"LesMiles, Yoga",14:47:00,17:18:00,151,FALSE,
+914,Ker,Male,02-06-1994,30,Premium,1,Mon,FALSE,,17:41:00,19:27:00,106,FALSE,
+915,Chelsie,Female,12-04-2001,23,Standard,1,Tue,TRUE,Kickboxen,19:00:00,20:09:00,69,FALSE,
+916,Zeke,Male,14-08-2000,24,Standard,1,Wed,TRUE,"Kickboxen, XCore, Yoga",15:05:00,15:59:00,54,FALSE,
+917,Ignaz,Male,28-06-2011,13,Standard,2,"Mon, Thu",FALSE,,19:29:00,20:09:00,40,FALSE,
+918,Fayth,Female,28-05-2006,18,Standard,4,"Mon, Sat, Sun, Tue",FALSE,,11:23:00,13:36:00,133,FALSE,
+919,Devlin,Male,23-07-1979,45,Premium,5,"Sat, Sun, Thu, Tue, Wed",FALSE,,19:43:00,20:31:00,48,FALSE,
+920,Angelique,Female,20-02-1983,41,Standard,1,Fri,FALSE,,10:23:00,11:45:00,82,FALSE,
+921,Fredi,Female,04-02-2011,13,Premium,1,Fri,TRUE,BodyPump,12:39:00,13:25:00,46,FALSE,
+922,Vida,Female,29-11-1989,34,Standard,1,Thu,TRUE,"BodyBalance, XCore, Kickboxen",10:28:00,13:04:00,156,TRUE,Chantal
+923,Devondra,Female,05-09-1981,43,Standard,1,Wed,FALSE,,15:04:00,15:57:00,53,TRUE,Jeffrey
+924,Carling,Male,11-05-1985,39,Premium,2,"Sat, Tue",FALSE,,17:57:00,20:14:00,137,TRUE,Jeffrey
+925,Perle,Female,16-08-2011,13,Premium,3,"Fri, Sat, Wed",TRUE,"BodyPump, Pilates",13:47:00,16:32:00,165,FALSE,
+926,Gerick,Male,09-11-2001,22,Standard,5,"Fri, Mon, Thu, Tue, Wed",FALSE,,09:16:00,10:27:00,71,TRUE,Chantal
+927,Tye,Male,13-03-2001,23,Standard,3,"Mon, Sat, Sun",TRUE,"Spinning, XCore",10:03:00,11:32:00,89,TRUE,Hanna
+928,Pamela,Female,17-09-1987,37,Premium,3,"Fri, Sat, Tue",FALSE,,17:33:00,18:46:00,73,FALSE,
+929,Aldous,Male,07-11-1994,29,Premium,5,"Fri, Mon, Sat, Tue, Wed",TRUE,"Pilates, Zumba, LesMiles",09:38:00,10:54:00,76,FALSE,
+930,Vita,Female,15-08-2001,23,Premium,5,"Fri, Mon, Sat, Thu, Wed",FALSE,,13:57:00,14:44:00,47,FALSE,
+931,Dori,Female,20-09-2001,23,Standard,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,16:33:00,17:57:00,84,FALSE,
+932,Francklin,Male,28-03-1997,27,Premium,3,"Mon, Sat, Wed",TRUE,"Yoga, Kickboxen, Spinning",10:48:00,12:12:00,84,FALSE,
+933,Tiertza,Female,08-07-2009,15,Premium,1,Tue,TRUE,"BodyPump, Zumba, Yoga",19:06:00,19:37:00,31,TRUE,Mike
+934,Dionis,Female,25-02-1983,41,Premium,5,"Fri, Sat, Sun, Thu, Wed",FALSE,,13:53:00,16:01:00,128,FALSE,
+935,Mariam,Female,29-05-2009,15,Standard,2,"Sat, Tue",FALSE,,12:35:00,14:56:00,141,FALSE,
+936,Briano,Male,06-12-2010,13,Premium,3,"Sun, Tue, Wed",TRUE,"BodyPump, Kickboxen, Running",15:31:00,18:26:00,175,FALSE,
+937,Parsifal,Male,05-08-1975,49,Premium,3,"Fri, Sun, Wed",TRUE,"Zumba, BodyBalance",10:55:00,13:53:00,178,FALSE,
+938,Merle,Male,11-10-1992,31,Standard,3,"Fri, Thu, Wed",TRUE,Yoga,09:57:00,11:18:00,81,TRUE,Mike
+939,Carlen,Female,08-10-1981,42,Premium,5,"Fri, Mon, Sat, Sun, Wed",FALSE,,12:50:00,14:10:00,80,TRUE,Jeffrey
+940,Beatriz,Female,21-06-1991,33,Premium,2,"Sat, Wed",TRUE,"BodyBalance, Spinning, Running",20:25:00,21:05:00,40,FALSE,
+941,Matias,Male,21-12-1978,45,Premium,3,"Fri, Thu, Tue",FALSE,,10:21:00,11:18:00,57,TRUE,Hanna
+942,Lindon,Male,08-03-1981,43,Standard,3,"Mon, Thu, Tue",FALSE,,10:47:00,13:10:00,143,TRUE,Mike
+943,Ransell,Male,22-02-1984,40,Standard,3,"Fri, Mon, Thu",FALSE,,11:58:00,14:33:00,155,TRUE,Mike
+944,Marty,Female,29-09-1993,31,Standard,5,"Fri, Sat, Sun, Tue, Wed",FALSE,,09:41:00,11:03:00,82,TRUE,Chantal
+945,Doris,Female,29-11-1975,48,Standard,2,"Fri, Wed",FALSE,,17:14:00,20:08:00,174,TRUE,Jeffrey
+946,Fidelio,Male,14-02-2003,21,Premium,3,"Mon, Sat, Sun",FALSE,,13:49:00,16:45:00,176,TRUE,Hanna
+947,Elladine,Female,10-07-2006,18,Standard,4,"Fri, Mon, Thu, Tue",FALSE,,09:42:00,11:42:00,120,TRUE,Mike
+948,Hanna,Female,27-03-2000,24,Premium,2,"Sat, Sun",TRUE,"Spinning, HIT, Kickboxen",11:39:00,12:11:00,32,FALSE,
+949,Nathanael,Male,08-07-1990,34,Standard,2,"Sun, Tue",FALSE,,17:01:00,18:10:00,69,TRUE,Hanna
+950,Karyn,Female,31-10-2001,22,Standard,5,"Fri, Mon, Sat, Tue, Wed",TRUE,Running,15:44:00,17:40:00,116,TRUE,Chantal
+951,Grayce,Female,03-11-2002,21,Premium,5,"Fri, Mon, Sat, Sun, Tue",TRUE,"HIT, Yoga",11:36:00,13:43:00,127,FALSE,
+952,Ricky,Male,09-03-1982,42,Standard,4,"Mon, Sat, Sun, Wed",TRUE,Zumba,19:21:00,20:16:00,55,TRUE,Chantal
+953,Jacquenetta,Female,25-06-1977,47,Standard,2,"Sat, Tue",TRUE,"BodyPump, Spinning",18:47:00,20:15:00,88,FALSE,
+954,Ivor,Male,10-12-1979,44,Premium,5,"Fri, Sat, Thu, Tue, Wed",TRUE,"HIT, Pilates, Yoga",15:27:00,17:26:00,119,TRUE,Mike
+955,Menard,Male,23-01-1986,38,Standard,3,"Fri, Mon, Sat",TRUE,"BodyBalance, HIT",12:46:00,13:23:00,37,TRUE,Mike
+956,Lucia,Female,27-08-2010,14,Premium,2,"Fri, Sat",TRUE,"Kickboxen, HIT, Running",14:18:00,15:35:00,77,FALSE,
+957,Thomasin,Female,14-07-2005,19,Premium,3,"Fri, Tue, Wed",FALSE,,17:43:00,19:15:00,92,TRUE,Mike
+958,Doroteya,Female,25-03-2010,14,Standard,3,"Sat, Sun, Tue",TRUE,"Yoga, HIT, Spinning",13:59:00,15:43:00,104,FALSE,
+959,Gunilla,Female,12-04-2003,21,Premium,3,"Sat, Thu, Tue",FALSE,,09:22:00,12:12:00,170,TRUE,Hanna
+960,Brenn,Female,23-02-1993,31,Standard,3,"Fri, Tue, Wed",FALSE,,10:14:00,11:26:00,72,TRUE,Chantal
+961,Kellen,Female,24-12-1990,33,Premium,4,"Mon, Thu, Tue, Wed",FALSE,,10:24:00,12:36:00,132,FALSE,
+962,Wenona,Female,21-12-1995,28,Standard,3,"Mon, Sun, Wed",FALSE,,13:28:00,15:12:00,104,TRUE,Jeffrey
+963,Bone,Male,17-03-2011,13,Premium,2,"Thu, Wed",TRUE,XCore,09:23:00,11:01:00,98,FALSE,
+964,Domenico,Male,27-04-1981,43,Standard,3,"Sat, Sun, Wed",FALSE,,18:37:00,20:24:00,107,TRUE,Mike
+965,Francesco,Male,01-11-2009,14,Standard,1,Mon,TRUE,"Yoga, LesMiles, Spinning",11:56:00,12:34:00,38,FALSE,
+966,Aldous,Male,23-02-1988,36,Premium,2,"Sun, Thu",FALSE,,16:49:00,17:38:00,49,TRUE,Hanna
+967,Jacynth,Female,25-03-1998,26,Standard,1,Sun,TRUE,XCore,11:42:00,12:52:00,70,TRUE,Jeffrey
+968,Emalee,Female,25-05-2011,13,Standard,3,"Fri, Mon, Tue",FALSE,,13:36:00,14:19:00,43,TRUE,Mike
+969,Nikolai,Male,12-11-1998,25,Standard,1,Sat,FALSE,,15:33:00,16:32:00,59,TRUE,Mike
+970,Beale,Male,19-05-1978,46,Premium,2,"Sat, Wed",FALSE,,08:22:00,11:16:00,174,TRUE,Mike
+971,Emma,Female,24-01-2002,22,Premium,3,"Sat, Sun, Tue",TRUE,"HIT, BodyBalance, LesMiles",16:37:00,18:29:00,112,FALSE,
+972,Kit,Male,21-11-1993,30,Premium,3,"Fri, Sat, Tue",TRUE,"Yoga, XCore",14:44:00,17:10:00,146,TRUE,Hanna
+973,Nikos,Male,18-03-1991,33,Standard,1,Fri,TRUE,"BodyPump, Pilates",16:41:00,17:47:00,66,FALSE,
+974,Samaria,Female,13-11-1995,28,Premium,4,"Fri, Sun, Tue, Wed",TRUE,Spinning,11:10:00,12:09:00,59,TRUE,Mike
+975,Clemmy,Male,08-10-1976,47,Standard,3,"Fri, Sat, Wed",FALSE,,11:07:00,12:16:00,69,TRUE,Hanna
+976,Veda,Female,13-10-2008,15,Premium,5,"Fri, Mon, Sun, Thu, Wed",FALSE,,16:39:00,17:42:00,63,FALSE,
+977,Zacherie,Male,28-11-1988,35,Standard,3,"Mon, Sun, Tue",TRUE,BodyPump,10:36:00,12:50:00,134,TRUE,Mike
+978,Tremaine,Male,06-10-2000,23,Standard,3,"Mon, Sat, Wed",FALSE,,19:00:00,19:40:00,40,FALSE,
+979,Adair,Male,02-05-2008,16,Premium,3,"Mon, Sun, Wed",TRUE,"LesMiles, BodyPump, Zumba",13:30:00,14:54:00,84,FALSE,
+980,Quillan,Male,18-05-1992,32,Standard,3,"Sat, Sun, Tue",TRUE,Kickboxen,17:47:00,19:18:00,91,FALSE,
+981,Georgie,Female,22-01-1992,32,Standard,3,"Mon, Sun, Thu",TRUE,"XCore, Pilates, BodyPump",14:52:00,16:17:00,85,FALSE,
+982,Agna,Female,21-08-2003,21,Standard,2,"Mon, Thu",TRUE,Spinning,19:59:00,20:45:00,46,TRUE,Mike
+983,Benyamin,Male,02-03-1988,36,Premium,4,"Mon, Sat, Thu, Tue",TRUE,"Pilates, BodyBalance, Yoga",19:22:00,21:08:00,106,TRUE,Mike
+984,Jamal,Male,03-10-1987,37,Standard,1,Sat,TRUE,"LesMiles, Pilates, Running",16:04:00,16:55:00,51,TRUE,Mike
+985,Josie,Female,12-10-1975,48,Premium,1,Mon,TRUE,"Pilates, BodyPump, XCore",15:17:00,15:47:00,30,FALSE,
+986,Jules,Male,16-12-1981,42,Standard,1,Fri,TRUE,HIT,14:05:00,16:00:00,115,TRUE,Hanna
+987,Hadria,Female,14-03-1979,45,Premium,5,"Mon, Sun, Thu, Tue, Wed",FALSE,,19:04:00,21:32:00,148,TRUE,Chantal
+988,Rad,Male,29-07-1977,47,Premium,3,"Fri, Mon, Sun",FALSE,,10:48:00,12:17:00,89,FALSE,
+989,Magdalen,Female,29-01-1990,34,Standard,1,Wed,TRUE,"LesMiles, Zumba, XCore",09:14:00,10:38:00,84,TRUE,Chantal
+990,Clywd,Male,07-10-1997,26,Premium,3,"Fri, Sat, Thu",FALSE,,11:50:00,13:57:00,127,FALSE,
+991,Oliy,Female,01-04-1981,43,Standard,3,"Mon, Tue, Wed",FALSE,,08:22:00,09:09:00,47,TRUE,Chantal
+992,Isidor,Male,12-08-1991,33,Premium,3,"Sat, Sun, Wed",TRUE,"Kickboxen, Zumba, Yoga",10:24:00,12:05:00,101,TRUE,Chantal
+993,Melantha,Female,02-10-1985,39,Standard,5,"Mon, Sat, Sun, Thu, Tue",TRUE,Running,09:42:00,11:43:00,121,TRUE,Chantal
+994,Averill,Male,29-01-2007,17,Standard,4,"Sat, Sun, Thu, Wed",TRUE,"LesMiles, BodyPump",19:50:00,22:02:00,132,TRUE,Hanna
+995,Cora,Female,23-03-1988,36,Standard,2,"Fri, Sat",FALSE,,10:16:00,10:50:00,34,FALSE,
+996,Karlen,Female,22-09-1984,40,Standard,3,"Mon, Sun, Wed",FALSE,,20:56:00,23:32:00,156,FALSE,
+997,Elaina,Female,19-11-2008,15,Standard,3,"Fri, Thu, Tue",TRUE,"XCore, LesMiles",09:14:00,09:53:00,39,FALSE,
+998,Humfried,Male,05-10-1984,39,Standard,2,"Fri, Mon",FALSE,,17:21:00,19:04:00,103,TRUE,Jeffrey
+999,Brigg,Male,22-02-2001,23,Standard,4,"Fri, Mon, Sat, Tue",TRUE,"HIT, XCore",10:23:00,13:15:00,172,TRUE,Jeffrey
+1000,Norrie,Female,07-05-2006,18,Premium,2,"Sun, Tue",FALSE,,16:41:00,19:13:00,152,FALSE,
