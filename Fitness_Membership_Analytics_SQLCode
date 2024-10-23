@@ -1,0 +1,237 @@
+CREATE TABLE gym_membership (
+    id INT PRIMARY KEY,
+    first_name VARCHAR(50),
+    gener VARCHAR(50),
+    birthday DATE,
+    age INT,
+    subscription_type VARCHAR(50),
+    vist_per_week INT,
+    days_per_week_1 VARCHAR(20),
+    days_per_week_2 VARCHAR(20),
+    days_per_week_3 VARCHAR(20),
+    days_per_week_4 VARCHAR(20),
+    days_per_week_5 VARCHAR(20),
+    attended_group_lesson BOOLEAN,
+    fav_group_lesson_1 VARCHAR(20),
+    fav_group_lesson_2 VARCHAR(20),
+    fav_group_lesson_3 VARCHAR(20),
+    avg_time_check_in TIME,
+    avg_time_check_out TIME,
+    avg_time_in_gym_minutes INT,
+    avg_time_in_hr_min TIME,
+    personal_training BOOLEAN,
+    name_personal_trainer VARCHAR(20)
+    
+);
+
+-- Total Number of Members
+
+SELECT 
+    COUNT(*) AS total_members
+FROM
+    gym_membership;
+
+-- Average Age of Members
+
+SELECT 
+    ROUND(AVG(age), 0) AS average_age
+FROM
+    gym_membership;
+
+-- Members by Subscription Type
+
+SELECT 
+    subscription_type, COUNT(*) AS number_of_members
+FROM
+    gym_membership
+GROUP BY subscription_type
+ORDER BY number_of_members DESC;
+
+-- Attendance Analysis: Average Visits per Week
+
+SELECT 
+    ROUND(AVG(vist_per_week), 0) AS average_visits_per_week
+FROM
+    gym_membership;
+    
+-- Days Per Week Attendance Summary
+
+SELECT
+    day,
+    COUNT(*) AS number_of_members
+FROM (
+    SELECT days_per_week_1 AS day FROM gym_membership WHERE days_per_week_1 <> 'No Preference'
+    UNION ALL
+    SELECT days_per_week_2 AS day FROM gym_membership WHERE days_per_week_2 <> 'No Preference'
+    UNION ALL
+    SELECT days_per_week_3 AS day FROM gym_membership WHERE days_per_week_3 <> 'No Preference'
+    UNION ALL
+    SELECT days_per_week_4 AS day FROM gym_membership WHERE days_per_week_4 <> 'No Preference'
+    UNION ALL
+    SELECT days_per_week_5 AS day FROM gym_membership WHERE days_per_week_5 <> 'No Preference'
+) AS daily_visits
+GROUP BY day
+ORDER BY number_of_members DESC;
+
+
+-- Check Attendance for Group Lessons
+
+SELECT 
+    first_name,
+    fav_group_lesson_1,
+    fav_group_lesson_2,
+    fav_group_lesson_3
+FROM
+    gym_membership
+WHERE
+    attended_group_lesson = TRUE;
+
+-- count how many persons are enrolled in each favorite group lesson
+
+SELECT lesson, COUNT(*) AS number_of_members
+FROM (
+    SELECT fav_group_lesson_1 AS lesson
+    FROM gym_membership
+    WHERE attended_group_lesson = TRUE
+    UNION ALL
+    SELECT fav_group_lesson_2 AS lesson
+    FROM gym_membership
+    WHERE attended_group_lesson = TRUE
+    UNION ALL
+    SELECT fav_group_lesson_3 AS lesson
+    FROM gym_membership
+    WHERE attended_group_lesson = TRUE
+) AS lessons
+WHERE lesson IS NOT NULL AND lesson <> 'No Preference'
+GROUP BY lesson
+ORDER BY number_of_members DESC;
+
+-- Average Time Spent in the Gym
+
+SELECT 
+    ROUND(AVG(avg_time_in_gym_minutes), 0) AS avg_time_spent
+FROM
+    gym_membership;
+    
+-- Time Analysis: Average Check-In and Check-Out Times
+
+SELECT 
+    ROUND(AVG(avg_time_check_in), 0) AS average_check_in_time,
+    ROUND(AVG(avg_time_check_out), 0) AS average_check_out_time
+FROM
+    gym_membership;
+    
+-- Popular Favorite Group Lessons
+
+SELECT 
+    fav_group_lesson_1, 
+    COUNT(*) AS popularity 
+FROM gym_membership 
+GROUP BY fav_group_lesson_1 
+ORDER BY popularity DESC;
+
+SELECT 
+    fav_group_lesson_2, 
+    COUNT(*) AS popularity 
+FROM gym_membership 
+GROUP BY fav_group_lesson_2
+ORDER BY popularity DESC;
+
+-- To find out how many people opted for each number of group lessons
+SELECT 
+    lesson_count,
+    COUNT(*) AS number_of_members
+FROM (
+    SELECT 
+        id,  -- Assuming you have a unique identifier for each member
+        CASE 
+            WHEN fav_group_lesson_1 IS NOT NULL AND fav_group_lesson_1 <> 'No Preference' THEN 1 ELSE 0 END +
+            CASE 
+                WHEN fav_group_lesson_2 IS NOT NULL AND fav_group_lesson_2 <> 'No Preference' THEN 1 ELSE 0 END +
+            CASE 
+                WHEN fav_group_lesson_3 IS NOT NULL AND fav_group_lesson_3 <> 'No Preference' THEN 1 ELSE 0 END AS lesson_count
+    FROM gym_membership
+    WHERE attended_group_lesson = TRUE
+) AS lesson_counts
+GROUP BY lesson_count
+ORDER BY lesson_count;
+
+-- Check for Personal Training Engagement
+
+SELECT 
+    COUNT(*) AS total_members_with_training
+FROM
+    gym_membership
+WHERE
+    personal_training = TRUE;
+
+-- Birthday Count by Month
+
+SELECT 
+    MONTH(birthday) AS birth_month,
+    COUNT(*) AS number_of_birthdays
+FROM
+    gym_membership
+GROUP BY birth_month
+ORDER BY birth_month;
+
+-- find members who attend the gym 4 days a week and are enrolled in 3 group lessons
+SELECT 
+    first_name,
+    fav_group_lesson_1,
+    fav_group_lesson_2,
+    fav_group_lesson_3
+FROM 
+    gym_membership
+WHERE 
+    vist_per_week = 4
+    AND fav_group_lesson_1 IS NOT NULL AND fav_group_lesson_1 <> 'No Preference'
+    AND fav_group_lesson_2 IS NOT NULL AND fav_group_lesson_2 <> 'No Preference'
+    AND fav_group_lesson_3 IS NOT NULL AND fav_group_lesson_3 <> 'No Preference';
+    
+-- find members who attend the gym 5 days a week and are enrolled in 3 group lessons
+
+
+SELECT
+first_name,
+    fav_group_lesson_1,
+    fav_group_lesson_2,
+    fav_group_lesson_3
+FROM 
+	gym_membership
+WHERE
+	vist_per_week = 5
+    AND fav_group_lesson_1 <> 'No Preference'
+    AND fav_group_lesson_2 <> 'No Preference'
+    AND fav_group_lesson_3 <> 'No Preference';
+    
+SELECT 
+    id,
+    COUNT(*) AS number_of_members
+FROM
+    gym_membership
+WHERE
+    vist_per_week = 5
+    AND fav_group_lesson_1 <> 'No Preference'
+    AND fav_group_lesson_2 <> 'No Preference'
+    AND fav_group_lesson_3 <> 'No Preference'
+GROUP BY
+    id;
+
+SELECT 
+    COUNT(*) AS total_members
+FROM
+    gym_membership
+WHERE
+    vist_per_week = 5
+    AND fav_group_lesson_1 <> 'No Preference'
+    AND fav_group_lesson_2 <> 'No Preference'
+    AND fav_group_lesson_3 <> 'No Preference';
+    
+-- Gender
+
+SELECT 
+    gener, 
+    COUNT(*) AS number_of_members
+FROM gym_membership
+GROUP BY gener;
